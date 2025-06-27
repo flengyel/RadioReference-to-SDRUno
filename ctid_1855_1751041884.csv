@@ -1,0 +1,1083 @@
+"Frequency Output","Frequency Input","FCC Callsign",Agency/Category,Description,"Alpha Tag","PL Output Tone","PL Input Tone",Mode,"Class Station Code",Tag
+29.660000,29.56000,WB2HWW,"10m Ham","WB2HWW - Linked to 6m, 1 1/4m, 70cm",WB2HWW,"114.8 PL","114.8 PL",FM,RM,Ham
+29.770000,0.00000,WQAP986,"Businesses Taxi and Limo Services","Bushwick Car Service","Bushwick Car","162.2 PL",,FM,BM,Transportation
+29.770000,0.00000,WQAP986,"Businesses Taxi and Limo Services","Bushwick Car Service","Bushwick Car","146.2 PL",,FM,BM,Transportation
+30.600000,0.00000,WPKM358,"Businesses Taxi and Limo Services","Central Car Service and Limo",CentralCar,"91.5 PL",,FM,BM,Transportation
+30.680000,0.00000,WQHU802,"Businesses Taxi and Limo Services","Nortena Express",NortenaXpres,"100.0 PL",,FM,BM,Transportation
+30.740000,0.00000,WNUB566,"Businesses Taxi and Limo Services","Bell Car Service - Base","BellCar Base","107.2 PL",,FM,B,Transportation
+30.740000,0.00000,WNUB566,"Businesses Taxi and Limo Services","Bell Car Service - Mobiles","Bell Car Mob","179.9 PL",,FM,M,Transportation
+30.800000,0.00000,WQIY406,"Businesses Taxi and Limo Services","Evelyn Car Service","Evelyn Car","88.5 PL",,FM,BM,Transportation
+30.880000,0.00000,WPJY219,"Businesses Taxi and Limo Services","Brooklyn Car Service","Brooklyn Car","225.7 PL",,FM,BM,Transportation
+30.940000,0.00000,WQEG379,"Businesses Taxi and Limo Services","Family Car Service","Family Car","82.5 PL",,FM,B,Transportation
+30.960000,0.00000,WNUB566,"Businesses Taxi and Limo Services","Bell Car Service - Base","BellCar Base","107.2 PL",,FM,B,Transportation
+30.960000,0.00000,WNUB566,"Businesses Taxi and Limo Services","Bell Car Service - Mobiles","Bell Car Mob","179.9 PL",,FM,M,Transportation
+30.980000,0.00000,WQEG379,"Businesses Taxi and Limo Services","Family Car Service","Family Car","82.5 PL",,FM,M,Transportation
+31.020000,0.00000,WPIN347,"Businesses Taxi and Limo Services","La Mexicana Express","La Mexicana","91.5 PL",,FM,BM,Transportation
+31.060000,0.00000,WPIN347,"Businesses Taxi and Limo Services","La Mexicana Express Car Service","La Mexicana","91.5 PL",,FM,BM,Transportation
+31.080000,0.00000,WPXA428,"Businesses Taxi and Limo Services","Myrtle Ave Car","Myrtle Cab","74.4 PL",,FM,BM,Transportation
+31.120000,0.00000,WNUB566,"Businesses Taxi and Limo Services","Bell Car Service - Base","BellCar Base","107.2 PL",,FM,B,Transportation
+31.120000,0.00000,WNUB566,"Businesses Taxi and Limo Services","Bell Car Service - Mobiles","Bell Car Mob","179.9 PL",,FM,M,Transportation
+31.240000,0.00000,WPYF511,"Businesses Taxi and Limo Services","Eastern Car Service","Eastern Car","136.5 PL",,FM,BM,Transportation
+31.320000,0.00000,WQES635,"Businesses Transportation","Matamoros Car Service",MatamorosCar,"131.8 PL",,FM,BM,Transportation
+31.400000,0.00000,WPIN347,"Businesses Taxi and Limo Services","La Mexicana Express","La Mexicana","91.5 PL",,FM,BM,Transportation
+31.440000,0.00000,WQAF813,"Businesses Taxi and Limo Services","Contintental Car Service",Continental,"100.0 PL",,FM,BM,Transportation
+31.720000,0.00000,WQAB377,"Businesses Taxi and Limo Services","Puebla Express Car Service","Puebla Expr","103.5 PL",,FM,BM,Transportation
+31.960000,0.00000,WPWC364,"Businesses Taxi and Limo Services","International Car Service",Internationl,"82.5 PL",,FM,BM,Transportation
+33.160000,0.00000,WNVB462,"Businesses Taxi and Limo Services","Arecibo Car Service","Arecibo Car","77.0 PL",,FM,BM,Transportation
+33.240000,0.00000,WPFC696,"Businesses Taxi and Limo Services","Fenix Car Service","Fenix Car","107.2 PL",,FM,BM,Transportation
+35.040000,0.00000,WPUZ913,"Businesses Taxi and Limo Services","11th St Car Service","11th St Car","110.9 PL",,FM,BM,Transportation
+35.100000,0.00000,WPRB497,"Businesses Taxi and Limo Services","Church Ave Car Service",ChurchAveCar,"77.0 PL",,FM,BM,Transportation
+35.180000,0.00000,WQGW902,"Businesses Taxi and Limo Services","#1 Mexicali Dispatcher","#1 Mexicali","71.9 PL",,FM,BM,Transportation
+35.280000,0.00000,WPGT667,"Businesses Taxi and Limo Services","Mega Car Service","Mega Car","156.7 PL",,FM,M,Transportation
+35.320000,0.00000,WQGW902,"Businesses Taxi and Limo Services","#1 Mexicali Dispatcher","#1 Mexicali","71.9 PL",,FM,BM,Transportation
+35.320000,0.00000,WQGP489,"Businesses Taxi and Limo Services","Chico Express","Chico Expr","141.3 PL",,FM,BM,Transportation
+35.480000,0.00000,WPGT667,"Businesses Taxi and Limo Services","Mega Car Service","Mega Car","156.7 PL",,FM,BM,Transportation
+35.520000,0.00000,WQGW902,"Businesses Taxi and Limo Services","#1 Mexicali Dispatcher","#1 Mexicali","71.9 PL",,FM,BM,Transportation
+35.780000,0.00000,WPPU655,"Businesses Taxi and Limo Services","Cibao Express Car and Limo",CibaoExpress,"192.8 PL",,FM,BM,Transportation
+35.820000,0.00000,WPNY352,"Businesses Taxi and Limo Services","Puerto Rican Car Service","PR Car","114.8 PL",,FM,BM,Transportation
+35.860000,0.00000,WPXN811,"Businesses Taxi and Limo Services","510 Car Service","510 Car Serv","123.0 PL",,FM,BM,Transportation
+35.900000,0.00000,WPXN811,"Businesses Taxi and Limo Services","510 Car Service","510 Car Serv","123.0 PL",,FM,BM,Transportation
+47.500000,0.00000,KLG642,"Volunteer Fire Departments","Rockaway Point FD Dispatch","RPFD Dispatch","192.8 PL",,FM,BM,"Fire Dispatch"
+53.470000,52.47000,WB2HWW,"6m Ham","WB2HWW - Linked to 10m, 1 1/4m, 70cm",WB2HWW,"192.8 PL","192.8 PL",FM,RM,Ham
+53.830000,52.83000,KC2GOW,"6m Ham","KC2GOW Staten Island","KC2GOW 6m","136.5 PL","136.5 PL",FM,RM,Ham
+115.100000,0.00000,,"Airports Air Traffic Control","JFK Automatic Terminal Information Service (ATIS) - Departure","JFK ATIS - Dep",,,AM,B,Aircraft
+115.400000,0.00000,,"Airports Air Traffic Control","JFK Automatic Terminal Information Service (ATIS) - Southwest","JFK ATIS - SW",,,AM,B,Aircraft
+117.700000,0.00000,,"Airports Air Traffic Control","JFK Automatic Terminal Information Service (ATIS) - Northeast","JFK ATIS - NE",,,AM,B,Aircraft
+118.700000,0.00000,,"Airports Air Traffic Control","LGA Tower","LGA Tower",,,AM,BM,Aircraft
+119.100000,0.00000,,"Airports Air Traffic Control","JFK Tower Runways 04R/22L 13L/31R","JFK Twr 04R 13L",,,AM,BM,Aircraft
+121.650000,0.00000,,"Airports Air Traffic Control","JFK Ground Control","JFK Ground Ctrl",,,AM,BM,Aircraft
+121.700000,0.00000,,"Airports Air Traffic Control","LGA Ground Control","LGA Gnd Control",,,AM,BM,Aircraft
+121.850000,0.00000,,"Airports Air Traffic Control","LGA Ground Control","LGA Gnd Control",,,AM,BM,Aircraft
+121.875000,0.00000,,"Airports Air Traffic Control","LGA Clearance Delivery","LGA Clear/Del",,,AM,BM,Aircraft
+121.900000,0.00000,,"Airports Air Traffic Control","JFK Ground Control","JFK Ground Ctrl",,,AM,BM,Aircraft
+122.950000,0.00000,,"Airports Air Traffic Control","LGA Unicom","LGA Unicom",,,AM,BM,Aircraft
+122.950000,0.00000,,"Airports Aviation - Airlines","PA Gen Aviation Term FBO","PA Gen Aviat",,,AM,BM,Business
+123.050000,0.00000,,"Airports Hudson River and East River Exclusion Special Flight Rules Area","Hudson River Airspace Operations","Hudson River Ops",,,AM,BM,Aircraft
+123.075000,0.00000,,"Airports Hudson River and East River Exclusion Special Flight Rules Area","East River Airspace Operations","East River Ops",,,AM,BM,Aircraft
+123.100000,0.00000,,Citywide,"Aviation Unit","NYPD Aviation",,,AM,BM,Aircraft
+123.900000,0.00000,,"Airports Air Traffic Control","JFK Tower Runways 04L/22R 13R/31L","JFK Twr 04L 13R",,,AM,BM,Aircraft
+125.050000,0.00000,,"Airports Air Traffic Control","JFK Gate Hold","JFK Gate Hold",,,AM,BM,Aircraft
+125.250000,0.00000,,"Airports Air Traffic Control","JFK Tower Class B","JFK Class B",,,AM,BM,Aircraft
+125.950000,0.00000,,"Airports Air Traffic Control","LGA Automatic Terminal Information Service (ATIS) - Arrival","LGA ATIS",,,AM,B,Aircraft
+126.050000,0.00000,,"Airports Air Traffic Control","LGA Tower Class B","LGA Class B",,,AM,BM,Aircraft
+127.050000,0.00000,,"Airports Air Traffic Control","LGA Automatic Terminal Information Service (ATIS) - Departure","LGA ATIS",,,AM,B,Aircraft
+128.725000,0.00000,,"Airports Air Traffic Control","JFK Automatic Terminal Information Service (ATIS) - Arrival","JFK ATIS - Arr",,,AM,B,Aircraft
+128.825000,0.00000,,"Airports Aviation - Airlines","Flight Ops Int'l","Flight Ops I",,,AM,BM,Business
+128.850000,0.00000,,"Airports Aviation - Airlines",Southwest,Southwest,,,AM,BM,Business
+129.100000,0.00000,,"Airports Aviation - Airlines","JetBlue - Dispatch","JetBlue Disp",,,AM,BM,Business
+129.150000,0.00000,,"Airports Aviation - Airlines","British Airways","British Airw",,,AM,BM,Business
+129.200000,0.00000,,"Airports Aviation - Airlines","American - Ramp","AA Ramp",,,AM,BM,Business
+129.225000,0.00000,,"Airports Aviation - Airlines","American - Ops / Ramp / Maintenance","AAL Ops Ramp",,,AM,BM,Business
+129.250000,0.00000,,"Airports Aviation - Airlines",Frontier,FFT,,,AM,BM,Business
+129.275000,0.00000,,"Airports Aviation - Airlines","Delta - Station Ops","DAL Ops",,,AM,BM,Business
+129.300000,0.00000,,"Airports Aviation - Airlines","United - Operations","UAL Ops",,,AM,BM,Business
+129.300000,0.00000,,"Airports Aviation - Airlines","United Airlines",United,,,AM,BM,Business
+129.400000,0.00000,KJP8,"Airports Aviation - Airlines","ARINC San Francisco Radio","ARINC SF Radio",,,AM,BM,Business
+129.425000,0.00000,,"Airports Aviation - Airlines","American - Maintenance","AA Maint",,,AM,BM,Business
+129.425000,0.00000,,"Airports Aviation - Airlines",UPS,UPS,,,AM,BM,Business
+129.600000,0.00000,,"Airports Aviation - Airlines","Alaska Airlines","Alaska Air",,,AM,BM,Business
+129.650000,0.00000,,"Airports Aviation - Airlines","Delta - Operations","Delta Ops",,,AM,BM,Business
+129.675000,0.00000,,"Airports Aviation - Airlines","Delta - Ramp Tower C15-C18, D1-11","DAL Twr",,,AM,BM,Business
+129.700000,0.00000,KOX9,"Airports Aviation - Fixed Base Operators","SheltAir Aviation Services",SheltAir,,,AM,BM,Aircraft
+129.825000,0.00000,,"Airports Aviation - Airlines","JetBlue - Maintenance",JetBlueMaint,,,AM,BM,Business
+129.850000,0.00000,,"Airports Aviation - Airlines","American - Dispatch","AAL Dispatch",,,AM,BM,Business
+129.850000,0.00000,,"Airports Aviation - Airlines","American - Dispatch","AA Disp",,,AM,BM,Business
+129.875000,0.00000,,"Airports Aviation - Airlines","American Airlines - Ramp",American,,,AM,BM,Business
+129.900000,0.00000,WHH9,"Airports Aviation - Airlines","ARINC New York Radio","ARINC NY Radio",,,AM,BM,Business
+129.975000,0.00000,,"Airports Aviation - Airlines","Delta - Metering","Delta Meter",,,AM,BM,Business
+130.100000,0.00000,,"Airports Aviation - Airlines","American Airlines - Operations",American,,,AM,BM,Business
+130.125000,0.00000,,"Airports Aviation - Airlines","Swiss Airlines","Swiss Airlines",,,AM,BM,Business
+130.175000,0.00000,,"Airports Aviation - Airlines",Spirit,Spirit,,,AM,BM,Business
+130.275000,0.00000,,"Airports Aviation - Airlines",FedEx,FDX,,,AM,BM,Business
+130.275000,0.00000,,"Airports Aviation - Airlines","Terminal 1 Ramp Ctrl","Terminal 1 R",,,AM,BM,Business
+130.375000,0.00000,,"Airports Aviation - Airlines","United - Ramp Tower","UAL Ramp Twr",,,AM,BM,Business
+130.400000,0.00000,KIY2,"Airports Aviation - Airlines",United,United,,,AM,BM,Business
+130.600000,0.00000,,"Airports Aviation - Airlines","American Eagle","American Eag",,,AM,BM,Business
+130.675000,0.00000,,"Airports Aviation - Airlines","Atlas Air","Atlas Air",,,AM,BM,Business
+130.775000,0.00000,,"Airports Aviation - Airlines","Terminal 4 Ramp Ctrl","Terminal 4 R",,,AM,BM,Business
+130.850000,0.00000,,"Airports Aviation - Airlines","American Airlines",American,,,AM,BM,Business
+130.900000,0.00000,,"Airports Aviation - Airlines","Delta - Atlanta Radio - Dispatch","Delta Disp",,,AM,BM,Business
+131.025000,0.00000,,"Airports Aviation - Airlines","JetBlue - Ramp Control","JetBlue Ramp",,,AM,BM,Business
+131.350000,0.00000,,"Airports Aviation - Airlines","Delta - Terminal A - Delta Shuttle","Delta Shuttl",,,AM,BM,Business
+131.375000,0.00000,,"Airports Aviation - Airlines",Delta,Delta,,,AM,BM,Business
+131.400000,0.00000,,"Airports Aviation - Airlines",Cargoitalia,Cargoitalia,,,AM,BM,Business
+131.475000,0.00000,,"Airports Aviation - Airlines","Delta Ramp Tower - C20-C34","DAL Twr",,,AM,BM,Business
+131.500000,0.00000,,"Airports Aviation - Airlines","United Airlines",United,,,AM,BM,Business
+131.600000,0.00000,,"Airports Aviation - Airlines","Air Wisconsin","Air Wisconsi",,,AM,BM,Business
+131.675000,0.00000,,"Airports Aviation - Airlines","Delta - Mainteanance","Delta Maint",,,AM,BM,Business
+131.775000,0.00000,,"Airports Aviation - Airlines",Lufthansa,Lufthansa,,,AM,BM,Business
+131.850000,0.00000,,"Airports Aviation - Airlines","Delta - Mainteance","DAL Maint",,,AM,BM,Business
+131.850000,0.00000,,"Airports Aviation - Airlines",Delta,Delta,,,AM,BM,Business
+131.925000,0.00000,,"Airports Aviation - Airlines",FEDEX,FDX,,,AM,BM,Business
+131.925000,0.00000,,"Airports Aviation - Airlines",FEDEX,FEDEX,,,AM,BM,Business
+131.950000,0.00000,,"Airports Aviation - Airlines",Swissport,Swissport,,,AM,BM,Business
+135.050000,0.00000,,"Airports Air Traffic Control","JFK Clearance Delivery","JFK Clearance",,,AM,BM,Aircraft
+135.200000,0.00000,,"Airports Air Traffic Control","LGA Clearance Delivery","LGA Clear/Del",,,AM,BM,Aircraft
+136.550000,0.00000,,"Airports Aviation - Airlines","JetBlue - Operations","JetBlue Ops",,,AM,BM,Business
+136.600000,0.00000,,"Airports Aviation - Airlines",JetBlue,JBU,,,AM,BM,Business
+147.315000,147.91500,KC2GOW,"2m Ham","KC2GOW Staten Island","KC2GOW 2m",,"118.8 PL",FM,RM,Ham
+147.315000,147.91500,KC2GOW,"2m Ham","KC2GOW Staten Island","KC2GOW P25",,"293 NAC",P25,RM,Ham
+151.115000,0.00000,KFT260,"Airports Parking","5-Star Parking Ch. 1","5-Star 1",,,FMN,B,Business
+151.565000,160.09500,WQWW234,Hatzalah,"Hatzalah Williamsburg/Greenpoint","Hatzalah Wlmsbrg","186.2 PL",,FMN,RM,"EMS Dispatch"
+152.330000,157.59000,KSI918,"Businesses Taxi and Limo Services","Rocapulco Car Service (Rockaway Park)",RocapulcoCar,"100.0 PL",,FMN,RM,Transportation
+152.405000,0.00000,KEX426,"Businesses Taxi and Limo Services","Kelly's Car Service (Bayside)","Kellys Car","134 DPL",,FMN,BM,Transportation
+152.450000,157.71000,WRBX544,Hatzalah,"Hatzalah EMS Staten Island","Hatzalah EMS SI","167.9 PL",,FMN,RM,"EMS Dispatch"
+152.877500,0.00000,WQJJ612,Hatzalah,"Queens Hatzalah Aid","Hatzalah EMS QN","413 DPL",,FMN,RM,"EMS Dispatch"
+152.982500,0.00000," ","Shomayah Services","Site 001 Brooklyn",,,,DMR,,TRS
+153.012500,0.00000," ","Shomayah Services","Site 001 Brooklyn",,,,DMR,,TRS
+153.042500,0.00000," ","Shomayah Services","Site 001 Brooklyn",,,,DMR,,TRS
+153.072500,0.00000," ","Shomayah Services","Site 001 Brooklyn",,,,DMR,,TRS
+153.102500,0.00000," ","Shomayah Services","Site 001 Brooklyn",,,,DMR,,TRS
+153.710000,160.00500,WROS841,Hatzalah,"Hatzalah Borough Park","Hatzalah BoroPrk","167.9 PL",,FMN,RM,"EMS Dispatch"
+153.830000,0.00000,WPFS461,Fireground,"Vehicular Repeater System","FDNY VRS",,,FMN,M,Fire-Tac
+153.920000,0.00000,WXP373,"Other Services","Central Park Zoo","CP Zoo",,,FMN,RM,"Public Works"
+153.965000,0.00000,,"Unified Court System","Criminal Court",CrimnlCrtNYC,,,FMN,M,"Law Tac"
+154.010000,0.00000,,"Unified Court System","Supreme Court - Panic Button Voice Alarm",SuprmCrtNYC,,,FMN,M,"Law Tac"
+154.190000,0.00000,KED962,Dispatch,"Bronx/Staten Island Dispatch (VHF)","FDNY BX/SI VHF","186.2 PL",,FMN,B,"Fire Dispatch"
+154.220000,0.00000,"WQRU862 ","Volunteer Fire Departments","Edgewater Park FD","Edgewater Pk FD","627 DPL",,FMN,BM,"Fire Dispatch"
+154.250000,0.00000,WRQZ787,Dispatch,"Manhattan Dispatch (VHF)","FDNY MN VHF","186.2 PL",,FMN,B,"Fire Dispatch"
+154.370000,0.00000,KEB525,Dispatch,"Brooklyn Dispatch (VHF)","FDNY BK VHF","186.2 PL",,FMN,B,"Fire Dispatch"
+154.400000,0.00000,KEB526,Dispatch,"Queens Dispatch (VHF)","FDNY QN VHF","186.2 PL",,FMN,B,"Fire Dispatch"
+154.600000,0.00000,,"Airports Parking","5-Star Parking Ch. 2","5-Star 2",,,FMN,RM,Business
+154.785000,0.00000,,"Unified Court System","Supreme Court - Court Officers for Lower Courts",SuprmCrtNYC,,,FMN,M,"Law Tac"
+154.870000,0.00000,,"Unified Court System","Supreme Court - Court Officers for Supreme Court",SuprmCrtNYC,,,FMN,M,"Law Tac"
+155.070000,0.00000,KVH287,"Office of Mental Health","South Beach Psychiatric","South Bch Psyc ",,,FMN,BM,"Public Works"
+155.280000,0.00000,WRL477,EMS,"Throggs Neck Volunteer Ambulance","Throggs Neck EMS","110.9 PL",,FMN,BM,"EMS Dispatch"
+155.355000,150.77500,WPLW539,EMS,"Central Park Medical Unit - Main","CPMU Main","506 DPL",,FMN,RM,"EMS Dispatch"
+156.105000,0.00000,KRB407,"Transit Authority","Signal Department",Signals,"67.0 PL",,FMN,M,Transportation
+156.135000,159.04500,WPAU882,"Office of Mental Health","Institute for Basic Research","Institute for BR",,,FMN,RM,"Public Works"
+156.375000,0.00000,,"Attractions Liberty Cruises",Operations,"Liberty Cruises",,,FMN,BM,Business
+156.625000,0.00000,,"Other Services","NYC Ferry","NYC Ferry",CSQ,,FM,BM,Transportation
+156.950000,0.00000,KEJ237,"Other Services","Staten Island Ferry","SI Ferry Ops",CSQ,,FM,RM,Transportation
+159.000000,0.00000,WPZK416,"Office of Mental Health","Staten Island Developmental Center","SI Develop Cntr",,,FMN,M,"Public Works"
+159.825000,0.00000,WQGG917,"Businesses Taxi and Limo Services","Unity Car and Limo","Unity Car ","114.8 PL",,FMN,BM,Transportation
+159.990000,0.00000,WQLL675,"Businesses Taxi and Limo Services","Jamaica Express/Sunshine Car Service","Jamaica Expr","032 DPL",,FMN,BM,Transportation
+160.200000,0.00000,WNKK898,Hatzalah,"Hatzalah EMS Ch 2 (Alt Dispatch)","Hatzalah EMS Ch2","167.9 PL",,FMN,BM,EMS-Tac
+160.280000,0.00000,KFM561,Hatzalah,"Hatzalah EMS Dispatch (Simulcast)","Hatzalah EMS","167.9 PL",,FMN,BM,"EMS Dispatch"
+160.845000,0.00000,,"Transit Authority",Yard,Yard,"127.3 PL",,FMN,M,Transportation
+161.190000,158.88000,WNGX516,"Transit Authority","IRT Subway","IRT Subway","127.3 PL",,FMN,BM,Transportation
+161.505000,158.77500,KTA927,"Transit Authority","BMT Subway","BMT Subway","127.3 PL",,FMN,BM,Transportation
+161.565000,158.80500,KTA927,"Transit Authority","IND Subway","IND Subway","127.3 PL",,FMN,BM,Transportation
+161.670000,0.00000,KEK322,"Media Radio and Television","WNBC-TV Assignment Desk","WNBC-TV 4","331 DPL",,FMN,BM,Media
+162.325000,0.00000,,"Federal United States Coast Guard","NET-111 Sector New York","USCG NET-111","293 NAC",,P25e,BM,Federal
+163.175000,0.00000,,"Federal United States Coast Guard",Cutters,"USCG Cutters",,,FMN,M,Federal
+163.375000,0.00000,,"Federal United States Postal Service","Truck Operations-Manhattan","Truck Ops Mn","065 DPL",,FMN,M,Federal
+164.337500,0.00000,,"Federal United States Postal Service","Brooklyn Control",USPSBrooklyn,"251 DPL",,FMN,M,Federal
+164.475000,0.00000,,"Federal Interoperability","NYC Federal Interoperability","NYC FIO","653 NAC",,P25e,M,Federal
+164.912500,0.00000,,"Federal United States Coast Guard","Sector New York","USCG NY",,,FMN,BM,Federal
+165.237500,0.00000,,"Federal Customs and Border Protection","Customs Net 1 - New York Sector","Customs Net1","301 NAC",,P25e,BM,Federal
+166.375000,0.00000,,"Federal United States Postal Service","Manhattan Vehicle Maintenance Facility","VMF NY","065 DPL",,FMN,M,Federal
+166.750000,0.00000,,"Federal Interoperability","NYC Federal Interoperability","NYC FIO","653 NAC",,P25e,M,Federal
+166.887500,0.00000,,"Federal Diplomatic Security Service","United Nations Security","UN Security","103.5 PL",,FMN,BM,Federal
+167.150000,0.00000,,"Federal Federal Bureau of Investigation","Channel E1","FBI E1","167 NAC",,P25e,M,Federal
+167.312500,0.00000,,"Federal United States Marshals Service","Southern District of NY Special Security Officer","USMS SDNY SSO","293 NAC",,P25,BM,Federal
+167.350000,0.00000,,"Federal Interoperability","NYC Federal Interoperability","NYC FIO","653 NAC",,P25e,M,Federal
+167.362500,0.00000,,"Federal Federal Bureau of Investigation","Channel A5/A6","FBI A5/A6","167 NAC",,P25e,M,Federal
+167.437500,0.00000,,"Federal Federal Bureau of Investigation","Channel F3/F4","FBI F3/F4","167 NAC",,P25e,M,Federal
+167.475000,0.00000,,"Federal United States Marshals Service","Marshals NYC","USMS NYC","864 NAC",,P25,M,Federal
+167.487500,0.00000,,"Federal Federal Bureau of Investigation","Channel F1/F2","FBI F1/F2","167 NAC",,P25e,M,Federal
+167.562500,0.00000,,"Federal Federal Bureau of Investigation","Channel D4","FBI D4","167 NAC",,P25e,M,Federal
+167.787500,164.73750,,"Federal Interoperability","NYC Federal Interoperability 1","NYC FIO 1","653 NAC",,P25e,RM,Federal
+168.225000,0.00000,,"Federal Federal Bureau of Investigation","Channel G1/G2","FBI G1/G2","167 NAC",,P25e,M,Federal
+168.300000,0.00000,,"Federal Federal Bureau of Investigation","Channel H3/H4","FBI H3/H4","167 NAC",,P25e,M,Federal
+168.612500,0.00000,,"Federal Statue of Liberty National Monument","Liberty/Ellis Island 5","NPS Liberty5","293 NAC",,P25,M,Federal
+168.662500,0.00000,,"Federal Interoperability","NYC Federal Interoperability","NYC FIO","653 NAC",,P25e,M,Federal
+168.825000,0.00000,,"Federal Federal Bureau of Investigation","Channel H1/H2","FBI H1/H2","167 NAC",,P25e,M,Federal
+169.112500,0.00000,,"Federal United States Postal Service",Carriers,"USPS Carrier","110.9 PL",,FMN,RM,Federal
+169.412500,0.00000,,"Airports Federal","Customs and Border Patrol",Customs,"301 NAC",,P25E,RM,Federal
+169.450000,0.00000,,"Federal Customs and Border Protection","Customs Net 2","Customs Net2","301 NAC",,P25e,M,Federal
+169.650000,0.00000,,"Federal Statue of Liberty National Monument","Liberty/Ellis Island","NPS Librty/Ellis","4F9 NAC",,P25E,RM,Federal
+169.700000,0.00000,,"Federal United States Marshals Service","Marshals NYC","USMS NYC","864 NAC",,P25,M,Federal
+169.725000,0.00000,,"Federal United States Marshals Service","Downtown Manhattan","USMS Manhatt","864 NAC",,P25,M,Federal
+169.825000,0.00000,,"Federal Gateway National Recreation Area","Gateway National Recreation Area","NPS Gateway","225 NAC",,P25,RM,Federal
+169.987500,162.16250,,"Federal Statue of Liberty National Monument","Liberty/Ellis Island 4","NPS Liberty4","4F9 NAC",,P25,RM,Federal
+170.425000,0.00000,,"Federal Federal Bureau of Investigation","Channel G3/G4","FBI G3/G4","167 NAC",,P25e,M,Federal
+170.450000,0.00000,,"Federal Federal Bureau of Investigation","Channel H5/H6","FBI H5/H6","167 NAC",,P25e,M,Federal
+170.625000,0.00000,,"Federal Federal Bureau of Investigation","Channel C7/C8","FBI C7/C8","167 NAC",,P25e,M,Federal
+170.825000,0.00000,,"Federal Federal Bureau of Prisons",Operations,"BOP NYC","167.9 PL",,FMN,M,Federal
+170.825000,0.00000,,"Federal Federal Bureau of Investigation","Channel B7/B8","FBI B7/B8","167 NAC",,P25e,M,Federal
+170.900000,0.00000,,"Federal Federal Bureau of Investigation","Channel C5/C6","FBI C5/C6","167 NAC",,P25e,M,Federal
+171.112500,0.00000,,"Federal Interoperability","NYC Federal Interoperability","NYC FIO","653 NAC",,P25e,M,Federal
+171.175000,162.28750,,"Federal Interoperability","NYC Federal Interoperability 2","NYC FIO 2","653 NAC",,P25e,RM,Federal
+171.225000,0.00000,,"Federal United States Marshals Service","Marshals NYC","USMS NYC","864 NAC",,P25,M,Federal
+171.662500,0.00000,,"Federal Immigration and Customs Enforcement","Immigration and Customs","CBP ICE","9C5 NAC",,P25E,BM,Federal
+171.687500,0.00000,,"Federal Immigration and Customs Enforcement","Immigration and Customs","CBP ICE","9C5 NAC",,P25E,BM,Federal
+172.287500,0.00000,,"Federal Interoperability","NYC Federal Interoperability","NYC FIO","653 NAC",,P25e,M,Federal
+172.400000,0.00000,,"Federal Federal Bureau of Investigation","Channel A3/A4","FBI A3/A4","167 NAC",,P25e,M,Federal
+172.425000,0.00000,,"Federal Federal Bureau of Investigation","Channel B5/B6","FBI B5/B6","167 NAC",,P25e,M,Federal
+172.475000,0.00000,,"Federal Federal Bureau of Investigation","Channel B3/B4","FBI B3/B4","167 NAC",,P25e,M,Federal
+172.525000,0.00000,,"Federal Federal Bureau of Investigation","Channel B1/B2","FBI B1/B2","167 NAC",,P25e,M,Federal
+172.600000,0.00000,,"Federal Federal Bureau of Investigation","Channel E5","FBI E5","167 NAC",,P25e,M,Federal
+172.825000,0.00000,,"Federal Federal Aviation Administration","FAA JFK/NY TRACON OPS","FAA JKF TRAC","293 NAC",,P25,BM,Federal
+172.900000,0.00000,,"Airports Federal",TSA,TSA,"001 NAC",,P25,RM,Federal
+172.900000,0.00000,,"Airports Federal","Transportation Security Administration (TSA)",TSA,"001 NAC",,P25,RM,Federal
+173.662500,0.00000,,"Federal Federal Bureau of Investigation","Channel A1/A2","FBI A1/A2","167 NAC",,P25e,M,Federal
+173.812500,0.00000,,"Federal Federal Bureau of Investigation","Channel C9","FBI C9","167 NAC",,P25e,M,Federal
+224.100000,222.50000,KC2GOW,"1.25m Ham","KC2GOW Staten Island","KC2GOW SI",,"141.3 PL",FM,RM,Ham
+263.000000,0.00000,,"Airports Air Traffic Control","LGA Tower","LGA Tower",,,AM,BM,Aircraft
+281.550000,0.00000,,"Airports Air Traffic Control","JFK Tower","JFK Tower ",,,AM,BM,Military
+348.600000,0.00000,,"Airports Air Traffic Control","JFK Ground Control","JFK Ground Ctrl",,,AM,BM,Military
+380.075000,0.00000," ","Joint National Capital Region","Site 001 Fort Hamilton",,,,"Project 25",,TRS
+380.275000,0.00000," ","Joint National Capital Region","Site 001 Fort Hamilton",,,,"Project 25",,TRS
+380.425000,0.00000," ","Joint National Capital Region","Site 001 Fort Hamilton",,,,"Project 25",,TRS
+380.575000,0.00000," ","Joint National Capital Region","Site 001 Fort Hamilton",,,,"Project 25",,TRS
+380.725000,0.00000," ","Joint National Capital Region","Site 001 Fort Hamilton",,,,"Project 25",,TRS
+406.150000,0.00000,,"Federal Department of Veterans Affairs","Brooklyn Campus","VA Brooklyn","293 NAC",,P25,M,Federal
+406.200000,0.00000,,"Federal Federal Protective Service","Federal Protective Service",FPS,"270 NAC",,P25,BM,Federal
+406.337500,0.00000,,"Federal United States Postal Service","Inspector Red Net","USPS RED","482 NAC",,P25,RM,Federal
+406.500000,0.00000," ","Metropolitan Detention Center Brooklyn","Site 001 MDC Brooklyn",,,,Motorola,,TRS
+406.550000,0.00000,,"Federal Department of Veterans Affairs","St Albans Campus","VA St Albans","293 NAC",,P25,M,Federal
+406.612500,0.00000," ","U.S. Marshals Service","Site 001 NYC Area Simulcast",,,,"Project 25",,TRS
+406.800000,0.00000,,"Federal Federal Executive Board","Federal Executive Board 8","FEB Ch 8",CSQ,,FMN,RM,Federal
+406.812500,0.00000," ","U.S. Marshals Service","Site 001 NYC Area Simulcast",,,,"Project 25",,TRS
+406.925000,0.00000," ","Metropolitan Detention Center Brooklyn","Site 001 MDC Brooklyn",,,,Motorola,,TRS
+407.037500,0.00000,,"Federal NASA","Goddard Institute for Space Studies","GISS Ops",,,P25,BM,Federal
+407.137500,0.00000,,"Federal United States Postal Service","Inspector Green Net","USPS GREEN","482 NAC",,P25,RM,Federal
+407.175000,0.00000,,"Federal United States Postal Service","Staten Island Vehicle Maintenance Facility","VMF SI","179.9 PL",,FMN,RM,Federal
+407.200000,0.00000,,"Federal Diplomatic Security Service","Channel 1","DSS CH 1","293 NAC",,P25e,M,Federal
+407.212500,0.00000," ","U.S. Marshals Service","Site 001 NYC Area Simulcast",,,,"Project 25",,TRS
+407.412500,0.00000," ","Metropolitan Correctional Center New York","Site 001 MCC New York",,,,Motorola,,TRS
+407.600000,0.00000,,"Federal Diplomatic Security Service","Channel 2","DSS CH 2","0F0 NAC",,P25e,M,Federal
+407.650000,0.00000,,"Federal United States Postal Service","Flushing Control 1",USPSFlushng1,"110.9 PL",,FMN,RM,Federal
+407.725000,0.00000,,"Federal United States Postal Service","Inspector White Net","USPS WHITE","482 NAC",,P25,RM,Federal
+407.775000,0.00000,,"Federal United States Postal Service","Inspector Blue Net","USPS BLUE","482 NAC",,P25,RM,Federal
+407.812500,0.00000," ","Metropolitan Detention Center Brooklyn","Site 001 MDC Brooklyn",,,,Motorola,,TRS
+407.862500,0.00000,,"Federal Diplomatic Security Service",DSS,DSS,"0F0 NAC",,P25e,M,Federal
+407.950000,0.00000," ","Metropolitan Detention Center Brooklyn","Site 001 MDC Brooklyn",,,,Motorola,,TRS
+408.100000,0.00000,,"Federal Diplomatic Security Service","Channel 4 Car/Car","DSS CH 4","0F0 NAC",,P25e,M,Federal
+408.125000,0.00000,,"Federal Department of Veterans Affairs","Manhattan Campus","VA Manhattan","293 NAC",,P25,M,Federal
+408.200000,0.00000,,"Federal Federal Protective Service","Federal Protective Service",FPS,"270 NAC",,P25,M,Federal
+408.212500,0.00000," ","Metropolitan Detention Center Brooklyn","Site 001 MDC Brooklyn",,,,Motorola,,TRS
+408.250000,0.00000," ","U.S. Marshals Service","Site 001 NYC Area Simulcast",,,,"Project 25",,TRS
+408.337500,0.00000,,"Federal United States Postal Service","Inspector Emergency Repeater","USPS EMRG","293 NAC",,P25,RM,Federal
+408.400000,0.00000,,"Federal Federal Executive Board","Federal Executive Board 1","FEB Ch 1","131 DPL",,FMN,M,Federal
+408.400000,0.00000,,"Federal Federal Executive Board","Federal Executive Board 3","FEB Ch 3","023 DPL",,FMN,M,Federal
+408.400000,0.00000,,"Federal Federal Executive Board","Nationwide Common 4","FEB Ch 4","712 DPL",,FMN,M,Federal
+408.400000,0.00000,,"Federal Federal Executive Board","Federal Executive Board 5","FEB Ch 5","244 DPL",,FMN,M,Federal
+408.600000,0.00000,,"Federal Diplomatic Security Service","Building Security","DSS Building","0F0 NAC",,P25e,M,Federal
+408.812500,0.00000," ","Metropolitan Correctional Center New York","Site 001 MCC New York",,,,Motorola,,TRS
+408.812500,0.00000," ","Metropolitan Detention Center Brooklyn","Site 001 MDC Brooklyn",,,,Motorola,,TRS
+409.025000,0.00000,,"Federal United States Postal Service","Flushing/Nassau Control 2",USPSFlushng2,"110.9 PL",,FMN,RM,Federal
+409.100000,0.00000,,"Federal United States Postal Service","Staten Island Maintenance Department","Maint - SI","179.9 PL",,FMN,RM,Federal
+409.212500,0.00000," ","U.S. Marshals Service","Site 001 NYC Area Simulcast",,,,"Project 25",,TRS
+409.350000,0.00000,,"Federal United States Postal Service","Morgan Mail Operations","Morgan Ops","023 DPL",,FMN,RM,Federal
+409.350000,0.00000," ","USPS Morgan Processing and Distribution Center","Site 001 USPS Morgan",,,,DMR,,TRS
+409.512500,0.00000," ","Metropolitan Correctional Center New York","Site 001 MCC New York",,,,Motorola,,TRS
+409.525000,0.00000,,"Federal United States Postal Service","Flushing Truck Operations","Truck Ops Qn","110.9 PL",,FMN,RM,Federal
+409.625000,0.00000,,"Federal Diplomatic Security Service","DSS Motor Pool","DSS Motor Po","293 NAC",,P25e,M,Federal
+409.700000,0.00000,,"Federal Diplomatic Security Service","Channel 3","DSS CH 3","0F0 NAC",,P25e,M,Federal
+409.712500,0.00000,,"Federal Diplomatic Security Service",DSS,DSS,"0F0 NAC",,P25e,M,Federal
+409.900000,0.00000," ","Metropolitan Correctional Center New York","Site 001 MCC New York",,,,Motorola,,TRS
+409.937500,0.00000,,"Federal United States Postal Service","Inspector Black Net","USPS BLACK","482 NAC",,P25,RM,Federal
+410.150000,0.00000,,"Federal United States Postal Service","Morgan Maintenance Department","Morgan Maint","343 DPL",,FMN,RM,Federal
+410.150000,0.00000," ","USPS Morgan Processing and Distribution Center","Site 001 USPS Morgan",,,,DMR,,TRS
+410.412500,0.00000," ","Metropolitan Correctional Center New York","Site 001 MCC New York",,,,Motorola,,TRS
+412.887500,0.00000,,"Federal American Indian Museum",Security,"Smith Am Ind",,,FMN,M,Federal
+413.862500,0.00000,,"Federal Department of Veterans Affairs","St Albans Paging","VA St Albans","293 NAC",,P25,B,Federal
+414.362500,0.00000,,"Federal United States Postal Service","Inspector Interop","USPS I/O",CSQ,,FMN,M,Federal
+414.750000,0.00000,,"Federal United States Postal Service","Inspector Base","USPS BASE","482 NAC",,P25,M,Federal
+414.750000,0.00000,,"Federal United States Postal Service","Inspector Able","USPS ABLE","483 NAC",,P25,M,Federal
+414.750000,0.00000,,"Federal United States Postal Service","Inspector Baker","USPS BAKER","484 NAC",,P25,M,Federal
+414.750000,0.00000,,"Federal United States Postal Service","Inspector Charlie","USPS CHARLIE","485 NAC",,P25,M,Federal
+414.750000,0.00000,,"Federal United States Postal Service","Inspector Delta","USPS DELTA","486 NAC",,P25,M,Federal
+414.750000,0.00000,,"Federal United States Postal Service","Inspector Echo","USPS ECHO","487 NAC",,P25,M,Federal
+414.750000,0.00000,,"Federal United States Postal Service","Inspector Foxtrot","USPS FOXTROT","488 NAC",,P25,M,Federal
+414.762500,0.00000,,"Federal United States Postal Service","Inspector Special Operations","USPS SOD","293 NAC",,P25,M,Federal
+415.050000,0.00000,,"Federal United States Postal Service","Inspector Tactical","USPS TAC","293 NAC",,P25,M,Federal
+416.225000,0.00000,,"Federal United States Postal Service","Postal Inspectors",Inspectors,"82.5 PL",,FMN,M,Federal
+417.400000,0.00000,,"Federal Drug Enforcement Administration","Tac 3","DEA Tac 3","156 NAC",,P25e,M,Federal
+417.450000,0.00000,,"Federal Drug Enforcement Administration","City B","DEA City B","156 NAC",,P25e,M,Federal
+417.500000,0.00000,,"Federal Drug Enforcement Administration","City C","DEA City C","156 NAC",,P25e,M,Federal
+417.550000,0.00000,,"Federal Drug Enforcement Administration","City D","DEA City D","156 NAC",,P25e,M,Federal
+417.600000,0.00000,,"Federal Diplomatic Security Service","Channel 5","DSS CH 5","293 NAC",,P25e,M,Federal
+418.050000,0.00000,,"Federal Drug Enforcement Administration","Wide J","DEA Wide J","156 NAC",,P25e,M,Federal
+418.075000,0.00000,,"Federal Federal Executive Board","Federal Executive Board 2","FEB Ch 2","131 DPL",,FMN,M,Federal
+418.075000,0.00000,,"Federal Federal Executive Board","Federal Executive Board 6","FEB Ch 6","023 DPL",,FMN,M,Federal
+418.075000,0.00000,,"Federal Federal Executive Board","Federal Executive Board 7","FEB Ch 7","712 DPL",,FMN,M,Federal
+418.625000,0.00000,,"Federal Drug Enforcement Administration","Stop 1","DEA Stop 1","156 NAC",,P25e,M,Federal
+418.675000,0.00000,,"Federal Drug Enforcement Administration","Stop 4","DEA Stop 4","156 NAC",,P25e,M,Federal
+418.875000,0.00000,,"Federal Drug Enforcement Administration","Tac I","DEA Tac I","156 NAC",,P25e,M,Federal
+418.950000,0.00000,,"Federal Drug Enforcement Administration","Stop 6","DEA Stop 6","156 NAC",,P25e,M,Federal
+418.975000,0.00000,,"Federal Drug Enforcement Administration","Stop 7","DEA Stop 7","156 NAC",,P25e,M,Federal
+438.275000,0.00000," ","NY Metro DMR Repeater Network","Site 113601 WB2ZEX Brooklyn",,,,DMR,,TRS
+438.512500,0.00000," ","NY Metro DMR Repeater Network","Site 313641 WB2WAK Glen Oaks",,,,DMR,,TRS
+438.562500,0.00000," ","NY Metro DMR Repeater Network","Site 313628 K2JRC Manhattan (West Side)",,,,DMR,,TRS
+438.587500,0.00000," ","NY Metro DMR Repeater Network","Site 113615 K2JRC Bayside",,,,DMR,,TRS
+438.612500,0.00000," ","NY Metro DMR Repeater Network","Site 113620 K2JRC Glen Oaks",,,,DMR,,TRS
+439.225000,444.22500,N2ACF,"70cm Ham","N2ACF Staten Island","N2ACF SI","77.0 PL","114.8 PL",FM,RM,Ham
+440.500000,445.50000,K2QQJ,"70cm Ham","DMR-MARC Local Region","DMR2 Local","CC 1|TG 2|SL 2",,DMR,RM,Ham
+440.500000,445.50000,K2QQJ,"70cm Ham","DMR-MARC US/English Speaking Countries","DMR3 English","CC 1|TG 2|SL 1",,DMR,RM,Ham
+440.500000,445.50000,K2QQJ,"70cm Ham","DMR-MARC Worldwide","DMR1 Worldwd","CC 1|TG 1|SL 1",,DMR,RM,Ham
+440.550000,445.55000,KC2GOW,"70cm Ham","KC2GOW Manhattan","KC2GOW Manhattan",,"141.3 PL",FM,RM,Ham
+440.550000,445.55000,KC2GOW,"70cm Ham","KC2GOW Manhattan","KC2GOW Manhattan","293 NAC","293 NAC",P25,RM,Ham
+440.700000,445.70000,WB2HWW,"70cm Ham","WB2HWW - With Inputs and LInks on 10m, 6m, 1 1/4m",WB2HWW,"114.8 PL","114.8 PL",FM,RM,Ham
+441.100000,446.10000,N2ROW,"70cm Ham","N2ROW Brooklyn","N2ROW Brooklyn","136.5 PL","136.5 PL",FM,RM,Ham
+442.050000,0.00000," ","NY Metro DMR Repeater Network","Site 113621 NY4Z Manhattan (Midtown)",,,,DMR,,TRS
+442.093750,0.00000," ","NY Metro DMR Repeater Network","Site 313618 NY4Z Brooklyn",,,,DMR,,TRS
+443.300000,448.30000,N2NSA,"70cm Ham","N2NSA Bronx","N2NSA Bronx",,,FM,RM,Ham
+443.350000,0.00000," ","NY Metro DMR Repeater Network","Site 313604 N2NSA Bronx",,,,DMR,,TRS
+443.887500,0.00000," ","NY Metro DMR Repeater Network","Site 313625 N2NSA Manhattan (GW Bridge)",,,,DMR,,TRS
+445.125000,440.12500,KC2GOW,"70cm Ham","KC2GOW Staten Island","KC2GOW SI",,"141.3 PL",FM,RM,Ham
+445.125000,440.12500,KC2GOW,"70cm Ham","KC2GOW Staten Island","KC2GOW SI","293 NAC","293 NAC",P25,RM,Ham
+447.025000,442.02500,WB2WAK,"70cm Ham","WB2WAK Glen Oaks",WB2WAK,,,YSF,RM,Ham
+449.725000,444.72500,KC2CQR,"70cm Ham","DMR-MARC Local Region","DMR2 Local","CC 1|TG 2|SL 2",,DMR,RM,Ham
+449.725000,444.72500,KC2CQR,"70cm Ham","DMR-MARC US/English Speaking Countries","DMR3 English","CC 1|TG 3|SL 1",,DMR,RM,Ham
+449.725000,444.72500,KC2CQR,"70cm Ham","DMR-MARC Worldwide","DMR1 Worldwd","CC 1|TG 1|SL 1",,DMR,RM,Ham
+450.087500,455.08750,KEI434,"Media Radio and Television","CBS-AM Chopper Reports","CBS-AM Helo","94.8 PL",,FMN,RM,Media
+450.212500,0.00000,KQA992,"Media Radio and Television","WABC Network Queuing","ABC Network",CSQ,,FMN,B,Media
+450.250000,0.00000,KEG343,"Media Radio and Television","WOR-AM Radio Traffic","WOR-AM Traff","156.7 PL",,FMN,BM,Media
+450.287500,0.00000,KFH749,"Media Radio and Television","WCBS-TV IFB Program Audio","WCBS-TV 2","107.2 PL",,FMN,BM,Media
+450.312500,0.00000,KPE787,"Media Radio and Television",WWOR-9,WWOR-9,"156.7 PL",,FMN,B,Media
+450.350000,0.00000,KFH749,"Media Radio and Television","WCBS-TV Voice Comm Repeater","WCBS-TV 2","107.2 PL",,FMN,BM,Media
+450.387500,0.00000,WZB689,"Media Radio and Television","WNBC-TV Citywide IFB","WNBC-TV 4",,,FMN,M,Media
+450.412500,455.41250,KPL535,"Media Radio and Television","NBC / WNBC Microwave Operations, L-Control","NBC / WNBC","82.5 PL",,FMN,RM,Media
+450.487500,0.00000,KOS404,"Media Radio and Television",WWOR-9,WWOR-9,"156.7 PL",,FMN,BM,Media
+450.512500,0.00000,KEI434,"Media Radio and Television","CBS-AM IFB","CBS-AM IFB","94.8 PL",,FMN,B,Media
+450.537500,455.53750,KPK494,"Media Radio and Television","NBC Network News Operations","NBC Network ","82.5 PL",,FMN,RM,Media
+450.637500,455.63750,"WPTG869 ","Media Radio and Television","News 12 Helicopter",News12Chop,"464 DPL",,FMN,BM,Media
+450.675000,0.00000,KPK267,"Media Radio and Television",CNN/NYC,CNN/NYC,"114.8 PL",,FMN,BM,Media
+450.712500,455.71250,KPK350,"Media Radio and Television",WWOR,WWOR,,,FMN,RM,Media
+450.750000,0.00000,KJP867,"Media Radio and Television","NBC Network News Citywide IFB","NBC Network ",,,FMN,BM,Media
+450.775000,455.77500,KPL510,"Media Radio and Television",CNN/NYC,CNN/NYC,"114.8 PL",,FMN,RM,Media
+450.812500,0.00000,,"Media Radio and Television","Metro/Shadow Traffic","Metro 450.81",,,FMN,BM,Media
+450.837500,455.83750,KPF820,"Media Radio and Television","Metro/Shadow Traffic","Metro Traff","103.5 PL",,FMN,RM,Media
+450.850000,0.00000,KIG413,"Media Radio and Television","FOX-5 News","FOX-5 News","179.9 PL",,FMN,BM,Media
+450.887500,0.00000,,"Media Radio and Television","WNBC/NBC Production/Engineering","WNBC / NBC",,,FMN,BM,Media
+451.009375,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+451.009375,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+451.187500,0.00000,,"Businesses Hotels and Lodging","70 park avenue hotel (a Kimpton Hotel)","70 Park Ave","82.5 PL",,FMN,M,Business
+451.235000,0.00000,,"Airports Parking","5-Star Parking Ch. 2","5-Star 2",,,FMN,RM,Business
+451.300000,468.38750,WQES599,EMS,"Volunteer Heart Ambulance (Staten Island) - South","VHRU South","127.3 PL",,FMN,RM,"EMS Dispatch"
+451.375000,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+451.375000,0.00000," ","Specialized Mobile Radio","Site 001 Brooklyn",,,,LTR,,TRS
+451.400000,0.00000," ","Specialized Mobile Radio","Site 001 Brooklyn",,,,LTR,,TRS
+451.400000,0.00000," ","LaGuardia Airport Central Terminal","Site 001 Central Terminal",,,,DMR,,TRS
+451.412500,456.41250,WQNF211,"Attractions National September 11th Memorial and Museum","WTC 9/11 Memorial","WTC Memorial","2B1 NAC",,P25,RM,Business
+451.425000,0.00000," ","Specialized Mobile Radio","Site 001 Brooklyn",,,,LTR,,TRS
+451.450000,0.00000," ","Specialized Mobile Radio","Site 001 Brooklyn",,,,LTR,,TRS
+451.462500,0.00000," ","Hudson Yards","Site 001 Hudson Yards",,,,DMR,,TRS
+451.487500,0.00000," ","Hudson Yards","Site 001 Hudson Yards",,,,DMR,,TRS
+451.500000,0.00000," ","Rockefeller Center","Site 001 Rockefeller Center",,,,DMR,,TRS
+451.625000,456.62500,WPLX922,"Businesses Transportation","Penny Transportation","School Bus",,,FMN,BM,Transportation
+451.637500,0.00000," ","JetBlue Airways (JFK)","Site 001 JFK",,,,DMR,,TRS
+451.662500,0.00000," ","Delta Airlines (JFK)","Site 002 Delta Cargo Building",,,,DMR,,TRS
+451.712500,456.71250,WQEH680,"Airports Airline Ground Operations","Virgin Atlantic","Virgin Atlan","412 DPL",,FMN,BM,Business
+451.725000,456.72500,,"Businesses Housing","Google - Engineering","Google Eng","CC 9|TG 101|SL 1",,DMR,RM,Business
+451.750000,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+451.750000,0.00000," ","Specialized Mobile Radio","Site 001 Brooklyn",,,,LTR,,TRS
+451.850000,456.85000,WQNN579,"Businesses Housing","Morningside Heights Housing Corp","Morningside Hgts","263 DPL",,FMN,RM,Business
+451.887500,456.88750,WQKE518,"Airports Airline Ground Operations","Southwest Ch. 2/5 Customer Service",SWA2CustSvc,"127.3 PL",,FMN,RM,Business
+451.950000,456.95000,WPMF596,"Businesses Transportation","Pioneer Transportation","School Bus","103.5 PL",,FMN,BM,Transportation
+451.975000,456.97500,WQCA325,"Attractions Museums","Hall of Science","Hall Science","413 DPL",,FMN,RM,Business
+451.987500,0.00000," ","Specialized Mobile Radio","Site 001 Brooklyn",,,,LTR,,TRS
+452.000000,0.00000," ","Specialized Mobile Radio","Site 001 Brooklyn",,,,LTR,,TRS
+452.100000,0.00000,KBX897,"Businesses Taxi and Limo Services","Charge and Ride Inc","Charge and Ride","94.8 PL",,FMN,BM,Transportation
+452.112500,457.11250,WQXU352,"Businesses Housing","Co-op City Department of Public Safety","Co-opCity PS","CC 10|TG 2049|SL 1",,DMR,RM,Multi-Dispatch
+452.175000,457.17500,WPZP458,"Attractions Museum of Modern Art",Security,"MoMA Security","CC 1|TG 10000|SL *",,DMR,RM,Security
+452.175000,457.17500,WPZP458,"Attractions Museum of Modern Art",Maintenance,"MoMA Maintenance","CC 1|TG 20000|SL *",,DMR,RM,Business
+452.200000,0.00000," ","Delta Airlines (JFK)","Site 002 Delta Cargo Building",,,,DMR,,TRS
+452.200000,0.00000," ","Hotel Indigo - Lower East Side","Site 001 Hotel",,,,DMR,,TRS
+452.225000,457.22500,WQLX950,"Columbia University","Morningside Heights Public Safety","CU MH PS","CC 5|TG 70000|SL 2",,DMR,RM,Security
+452.225000,0.00000," ","Delta Airlines (LGA)","Site 001 LGA",,,,DMR,,TRS
+452.275000,457.27500,WNVM531,"Businesses Housing","North Shore Towers Security","NST Security","165 DPL",,FMN,RM,Security
+452.287500,0.00000," ","Hudson Yards","Site 001 Hudson Yards",,,,DMR,,TRS
+452.312500,0.00000," ","Hudson Yards","Site 001 Hudson Yards",,,,DMR,,TRS
+452.400000,0.00000,KDB667,"Businesses Taxi and Limo Services","Dial Car Inc.","Dial Car","250.3 PL",,FMN,BM,Transportation
+452.412500,0.00000,,"Stuyvesant High School","Technology Department Ch. 16","SHS Tech 16","103.5 PL",,FMN,M,Schools
+452.412500,0.00000," ","Hudson Yards","Site 001 Hudson Yards",,,,DMR,,TRS
+452.512500,0.00000," ","Hudson Yards","Site 001 Hudson Yards",,,,DMR,,TRS
+452.650000,0.00000,WPRT789,"Airports Airline Ground Operations","Delta Airlines - Commuter Operations","LGA DeltaCom","606 DPL",,FMN,RM,Business
+452.650000,0.00000," ","Delta Airlines (LGA)","Site 001 LGA",,,,DMR,,TRS
+452.787500,0.00000," ","JetBlue Airways (JFK)","Site 001 JFK",,,,DMR,,TRS
+452.800000,457.80000,WQOS955,EMS,"North Shore Rescue Squad","North Shore EMS","88.5 PL",,FMN,RM,"EMS Dispatch"
+452.862500,457.86250,WQJC219,"St. John's University","IT and Maintenance","SJU Maintnce","CC 12|TG 1|SL *",,DMR,RM,Business
+452.975000,457.97500,WRP570,"Media Radio and Television","Shadow Traffic Ops 1","Shadow Traff","103.5 PL",,FMN,RM,Media
+453.100000,0.00000,,"Dept of Correction","Manhattan Facilities - Man Courts","DOC Manhtn","156.7 PL",,FMN,RM,Corrections
+453.100000,0.00000,,"Dept of Correction","Queens Facilities - Elmhurst Hospital Prison Ward","DOC Queens","127.3 PL",,FMN,RM,Corrections
+453.162500,0.00000,WQHR374,"Dept of Correction","Rikers Facilities - Robert N. Davoren Complex (C-74)","DOC Rikers","206.5 PL",,FMN,RM,Corrections
+453.200000,458.20000,KNBA923,"Dept of Homeless Services","Homeless Services (MnN/Bklyn)","Homeless Srv","107.2 PL",,FMN,RM,"Public Works"
+453.225000,458.22500,WPSG831,"Businesses Hospitals","Kirby Forensic Hospital",KirbyForHosp,"CC 9|TG 11|SL 2",,DMR,BM,Business
+453.225000,0.00000," ","Kirby Forensic Psychiatric Center","Site 001 Kirby FPC",,,,DMR,,TRS
+453.250000,458.25000,KEH307,"Parking Enforcement","Bronx Summons Enforcement","Parking BX","151.4 PL",,FMN,BM,"Law Dispatch"
+453.250000,0.00000," ","New York City Police Department (NYPD)","Site 001 NYC",,,,"Project 25",,TRS
+453.300000,458.30000,KNBA923,"Dept of Homeless Services","Homeless Services (MnS/Bx)","Homeless Srv",,,FMN,RM,"Public Works"
+453.312500,0.00000,WPKY646,"Dept of Correction","Rikers Facilities - West Facility","DOC Rikers","072 DPL",,FMN,M,Corrections
+453.350000,458.35000,KNBA923,"Dept of Homeless Services","Homeless Services (Qns/S.I.)","Homeless Srv",,,FMN,RM,"Public Works"
+453.362500,0.00000,WPKY646,"Dept of Correction","Rikers Facilities - North Infirmary Command","DOC Rikers","026 DPL",,FMN,M,Corrections
+453.412500,0.00000,WPKY646,"Dept of Correction","Rikers Facilities - Rose M. Singer Center","DOC Rikers","031 DPL",,FMN,RM,Corrections
+453.412500,0.00000,,"Dept of Correction","Manhattan Facilities - Manhattan Detention Complex","DOC Manhtn","023 DPL",,FMN,RM,Corrections
+453.512500,0.00000,KD31197,"Dept of Correction","Rikers Facilities - Eric M. Taylor Center (C-76)","DOC Rikers","047 DPL",,FMN,M,Corrections
+453.537500,0.00000,WPWT925,"Dept of Correction","Rikers Facilities - Otis Bantum Correctional Center","DOC Rikers","023 DPL",,FMN,RM,Corrections
+453.625000,0.00000," ","New York City Police Department (NYPD)","Site 001 NYC",,,,"Project 25",,TRS
+453.737500,0.00000,,"Volunteer Fire Departments","W Hamilton Beach Fireground","WHBVFD FG","91.5 PL",,FMN,M,Fire-Tac
+453.750000,0.00000,,"Dept of Correction","Manhattan Facilities - Bellevue Hospital Prison Ward","DOC Manhtn","162.2 PL",,FMN,RM,Corrections
+453.750000,0.00000,,"Dept of Correction","Bronx Facilities - Bronx Detention Complex and Courts","DOC Bronx","123.0 PL",,FMN,RM,Corrections
+453.750000,0.00000,KJV301,"Dept of Correction","Queens Facilities - Queens Detention Complex and Courts","DOC Queens","127.3 PL",,FMN,RM,Corrections
+453.825000,458.82500,KSI296,"Parking Enforcement","Enforcement 3A","Parking 3A","151.4 PL",,FMN,RM,"Law Dispatch"
+453.837500,458.83750,WQXJ817,"Volunteer Fire Departments","W Hamilton Beach FD Dispatch","WHBVFD Dispatch","136.5 PL",,FMN,RM,"Fire Dispatch"
+453.950000,458.95000,KQP434,"Parking Enforcement","Enforcement 3B","Parking 3B","151.4 PL",,FMN,RM,"Law Dispatch"
+454.018750,0.00000," ","USTA National Tennis Center","Site 001 Tennis Center",,,,DMR,,TRS
+454.056250,0.00000," ","USTA National Tennis Center","Site 001 Tennis Center",,,,DMR,,TRS
+454.106250,0.00000," ","USTA National Tennis Center","Site 001 Tennis Center",,,,DMR,,TRS
+454.175000,0.00000," ","USTA National Tennis Center","Site 001 Tennis Center",,,,DMR,,TRS
+454.243750,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+454.256250,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+454.268750,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+454.318750,0.00000," ","OneVoice Network","Site 007 Glen Oaks",,,,DMR,,TRS
+454.331250,0.00000," ","OneVoice Network","Site 007 Glen Oaks",,,,DMR,,TRS
+454.343750,0.00000," ","USTA National Tennis Center","Site 001 Tennis Center",,,,DMR,,TRS
+454.381250,0.00000," ","USTA National Tennis Center","Site 001 Tennis Center",,,,DMR,,TRS
+454.406250,0.00000," ","USTA National Tennis Center","Site 001 Tennis Center",,,,DMR,,TRS
+454.418750,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+454.431250,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+454.443750,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+454.456250,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+454.506250,0.00000," ","USTA National Tennis Center","Site 001 Tennis Center",,,,DMR,,TRS
+454.531250,0.00000," ","USTA National Tennis Center","Site 001 Tennis Center",,,,DMR,,TRS
+454.556250,0.00000," ","USTA National Tennis Center","Site 001 Tennis Center",,,,DMR,,TRS
+454.568750,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+454.581250,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+454.605250,0.00000," ","USTA National Tennis Center","Site 001 Tennis Center",,,,DMR,,TRS
+454.656250,0.00000," ","USTA National Tennis Center","Site 001 Tennis Center",,,,DMR,,TRS
+454.875000,0.00000,,"Businesses World Trade Center","WTC Construction 7","WTC Const 7","331 DPL",,FMN,M,Business
+455.050000,0.00000,KEH413,"Media Radio and Television",WABC-TV,WABC7,"156.7 PL",,FMN,BM,Media
+455.112500,0.00000,KOS389,"Media Radio and Television","FOX-5 IFB","FOX-5 IFB","179.9 PL",,FMN,BM,Media
+455.150000,0.00000,KOS359,"Media Radio and Television",WPIX-11,WPIX-11,"127.3 PL",,FMN,BM,Media
+455.187500,0.00000,KOS389,"Media Radio and Television","SkyFox Mobile","SkyFox Mob","179.9 PL",,FMN,BM,Media
+455.212500,0.00000,KOS360,"Media Radio and Television","WPIX 11 Channel 3","WPIX11 F3",,,FMN,BM,Media
+455.312500,0.00000,KFH749,"Media Radio and Television","WCBS-TV IFB Program Audio","WCBS-TV 2","107.2 PL",,FMN,BM,Media
+455.612500,0.00000,KEH413,"Media Radio and Television","WABC-TV Chopper 7","WABC-TV 7","156.7 PL",,FMN,BM,Media
+455.700000,0.00000,KEI434,"Media Radio and Television","WCBS AM88 Chopper",Chopper88,"94.8 PL",,FMN,M,Media
+455.812500,0.00000,KPL762,"Media Radio and Television","Metro/Shadow Traffic","Metro 455.81","67.0 PL",,FMN,BM,Media
+456.235000,0.00000,,"Airports Parking","5-Star Parking Ch. 1","5-Star 1",,,FMN,RM,Business
+456.462500,0.00000,,"Businesses World Trade Center","WTC Construction 5","WTC Const 5","162 DPL",,FMN,M,Business
+457.137500,0.00000,WNXD673,"Businesses World Trade Center","WTC Construction 4","WTC Const 4","371 DPL",,FMN,M,Business
+457.675000,0.00000,,"Businesses World Trade Center","WTC Construction 3","WTC Const 3","205 DPL",,FMN,M,Business
+457.725000,0.00000,WQJV781,"Attractions American Museum of Natural History","A Night at the Museum sleepover","MoNH Slpover A","423 DPL",,FMN,M,Business
+457.812500,0.00000,,"Businesses World Trade Center","WTC Construction 6","WTC Const 6","445 DPL",,FMN,M,Business
+458.112500,0.00000,,"School Safety Division","Tactical 1A","SSD Tac 1A","71.9 PL",,FMN,M,"Law Tac"
+458.112500,0.00000,,"School Safety Division","Tactical 1B","SSD Tac 1B","79.7 PL",,FMN,M,"Law Tac"
+458.112500,0.00000,,"School Safety Division","Tactical 1C","SSD Tac 1C","203.5 PL",,FMN,M,"Law Tac"
+458.162500,0.00000,,"School Safety Division","Tactical 2A","SSD Tac 2A","71.9 PL",,FMN,M,"Law Tac"
+458.162500,0.00000,,"School Safety Division","Tactical 2B","SSD Tac 2B","79.7 PL",,FMN,M,"Law Tac"
+458.162500,0.00000,,"School Safety Division","Tactical 2C","SSD Tac 2C","203.5 PL",,FMN,M,"Law Tac"
+458.512500,0.00000,KD31197,"Dept of Correction","Rikers Bus (on Island)","DOC Rikers","054 DPL",,FMN,M,Corrections
+458.825000,0.00000,KSI296,Tactical,"Tac W - Detectives/HQ Security","NYPD Tac W","225.7 PL",,FMN,M,"Law Tac"
+458.862500,0.00000,WQLE877,"Other Services","City Council Sergeant-at-Arms (City Hall)","City Council","662 DPL",,FMN,M,"Public Works"
+458.950000,0.00000,KQP434,"Parking Enforcement","District Tac","Parking Tac","203.5 PL",,FMN,M,"Law Tac"
+459.887500,0.00000,,"Attractions American Museum of Natural History","A Night at the Museum sleepover","MoNH Slpover  B","432 DPL",,FMN,M,Business
+460.012500,465.01250,WNYF842,"Dept of Correction","Brooklyn Detention Complex and Courts","DOC Brklyn","047 DPL",,FMN,RM,Corrections
+460.012500,0.00000,WNYF842,"Dept of Correction","Bronx Facilities - Vernon C. Baine Center (VCBC)","DOC Bronx","114.8 PL",,FMN,M,Corrections
+460.037500,0.00000,WNYI446,"Dept of Correction","Rikers SOD/Security (on Island)","DOC Rikers","047 DPL",,FMN,RM,Corrections
+460.112500,0.00000,WPBQ332,Tactical,"Tac P - Narcotics","NYPD Tac P","203.5 PL",,FMN,M,"Law Tac"
+460.187500,0.00000,WPBQ332,"Dept of Correction","Tactical Search Operations (TSO 2)","DOC TSO 2","072 DPL",,FMN,M,Corrections
+460.187500,0.00000,WPBQ332,Tactical,"Tac Q","NYPD Tac Q","210.7 PL",,FMN,M,"Law Tac"
+460.237500,0.00000,WPKY646,"Dept of Correction","Rikers Facilities - George Motchan Detention Center (C-73)","DOC Rikers","072 DPL",,FMN,M,Corrections
+460.237500,0.00000,WPBQ332,Tactical,"Tac R","NYPD Tac R","218.1 PL",,FMN,M,"Law Tac"
+460.262500,0.00000,,"Dept of Correction","Rikers Facilities - Anna M. Koss Center (C-95)","DOC Rikers","072 DPL",,FMN,RM,Corrections
+460.275000,465.27500,KJN880,"Volunteer Fire Departments","Broad Channel FD Dispatch","BCVFD Dispatch","192.8 PL",,FMN,RM,"Fire Dispatch"
+460.312500,0.00000,WPBQ332,Tactical,"Tac S","NYPD Tac S","225.7 PL",,FMN,M,"Law Tac"
+460.362500,0.00000,WPKY646,"Dept of Correction","Tactical Search Operations (TSO 1)","DOC TSO 1","114.8 PL",,FMN,M,Corrections
+460.387500,465.38750,KNAA929,"Volunteer Fire Departments","Gerrittsen Beach FD Dispatch/Fireground","GBVFD Disp/FG","123.0 PL",,FMN,RM,"Fire Dispatch"
+460.462500,0.00000,WPBQ332,Tactical,"Tac T","NYPD Tac T","233.6 PL",,FMN,M,"Law Tac"
+460.487500,0.00000,WPBQ332,Tactical,"Tac U - NYPD/FDNY Interop","NYPD Tac U","241.8 PL",,FMN,M,"Law Tac"
+460.562500,0.00000,KLG642,"Volunteer Fire Departments","Rockaway Point FD Dispatch","RPFD Dispatch","192.8 PL",,FMN,BM,"Fire Dispatch"
+460.575000,465.57500,WQAZ844,Fireground,"Subway Repeater 1","FDNY Subway Rpt1","127.3 PL",,FMN,RM,Fire-Tac
+460.625000,465.62500,WQAZ844,Fireground,"Subway Repeater 2","FDNY Subway Rpt2","91.5 PL",,FMN,RM,Fire-Tac
+460.650000,0.00000,KJY411,"Airports Airline Ground Operations","American Airlines - Ramp","LGA American","131.8 PL",,FMN,RM,Business
+460.650000,0.00000," ","Delta Airlines (JFK)","Site 001 Delta Lounge",,,,DMR,,TRS
+460.650000,0.00000," ","American Airlines (LGA)","Site 001 LGA",,,,DMR,,TRS
+460.662500,465.66250,WQOL623,"Airports Airline Ground Operations","Southwest Ch. 3/6","SWA 3","172 DPL",,FMN,RM,Business
+460.662500,0.00000," ","British Airways (JFK)","Site 001 JFK",,,,DMR,,TRS
+460.675000,0.00000,KAV973,"Airports Airline Ground Operations","American Airlines - Ramp","LGA AA Ramp","118.8 PL",,FMN,RM,Business
+460.700000,0.00000,KJY411,"Airports Airline Ground Operations","American Airlines Express","LGA American","265 DPL",,FMN,RM,Business
+460.700000,0.00000," ","British Airways (JFK)","Site 001 JFK",,,,DMR,,TRS
+460.725000,465.72500,KDD677,"Airports Airline Ground Operations",United,United,"203.5 PL",,FMN,BM,Business
+460.725000,0.00000,KJX291,"Airports Airline Ground Operations","United Airlines - Ramp","LGA UnitdRmp","100.0 PL",,FMN,RM,Business
+460.725000,0.00000,KJX291,"Airports Airline Ground Operations","United Airlines - Customer Service","LGA Unitd CS","210.7 PL",,FMN,RM,Business
+460.737500,465.73750,WQFN643,"Airports Airline Ground Operations","Alaska Airlines","Alaska Air","072 DPL",,FMN,BM,Business
+460.750000,0.00000,WNWA644,"Airports Airline Ground Operations","United Airlines","LGA United","054 DPL",,FMN,RM,Business
+460.775000,0.00000,KFH397,"Airports Airline Ground Operations","American Airlines - Customer Service","LGA AA CustS","118.8 PL",,FMN,RM,Business
+460.825000,0.00000,KZA754,"Airports Airline Ground Operations","Delta Airlines","LGA Delta825","162.2 PL",,FMN,RM,Business
+460.825000,0.00000," ","Delta Airlines (JFK)","Site 001 Delta Lounge",,,,DMR,,TRS
+460.825000,0.00000," ","Delta Airlines (LGA)","Site 001 LGA",,,,DMR,,TRS
+460.850000,0.00000," ","Delta Airlines (JFK)","Site 001 Delta Lounge",,,,DMR,,TRS
+460.875000,0.00000,WNHG237,"Airports Airline Ground Operations","Delta Airlines","LGA Delta875","118.8 PL",,FMN,RM,Business
+460.887500,465.88750,WQFM657,"Airports Airline Ground Operations","Terminal One","Terminal One","244 DPL",,FMN,BM,Business
+460.887500,465.88750,WQKE518,"Airports Airline Ground Operations","Southwest Ch. 1/4 Ramp","SWA 1 Ramp","85.4 PL",,FMN,RM,Business
+461.050000,0.00000," ","SI 2way","Site 001 Confirmed LCN",,,,LTR,,TRS
+461.062500,466.06250,,"Businesses Miscellaneous","LG Construction (various locations)","LG Construct","156 DPL",,FMN,RM,Business
+461.100000,0.00000," ","RF Design Consultants","Site 003 Floral Park",,,,DMR,,TRS
+461.112500,0.00000," ","Delta Airlines (LGA)","Site 001 LGA",,,,DMR,,TRS
+461.125000,466.12500,WPPT651,"Businesses Housing","Stuyvesant Town-Peter Cooper Village Public Safety","ST-PCV PS","CC 6|TG 7000|SL *",,DMR,RM,Security
+461.225000,466.22500,WQIN644,"Media Firebuffs","Citywide One, New York","Citywide One","167.9 PL",,FMN,RM,Media
+461.237500,0.00000,,"Businesses Retail","Apple Store (Soho)",AppleStrSoho,,,FMN,M,Business
+461.275000,466.27500,WPOG576,"Businesses Taxi and Limo Services","Apple Radio Car Service",AppleCar,"186.2 PL",,FMN,BM,Transportation
+461.362500,0.00000,,"Stuyvesant High School","Technology Department Ch. 11 Primary","SHS Tech 11","74.4 PL",,FMN,M,Schools
+461.387500,466.38750,WRNS218,"Businesses Housing","Parkchester South Maintenance","PrkChS Maint","CC 11|TG 4000|SL *",,DMR,RM,Business
+461.387500,0.00000," ","JetBlue Airways (JFK)","Site 001 JFK",,,,DMR,,TRS
+461.412500,0.00000," ","Rockefeller Center","Site 001 Rockefeller Center",,,,DMR,,TRS
+461.412500,0.00000," ","Delta Airlines (LGA)","Site 001 LGA",,,,DMR,,TRS
+461.418750,0.00000," ","Nassau Suffolk Communications (NEXEDGE)","Site 033 North Shore Towers",,,,NXDN,,TRS
+461.450000,0.00000,,"Businesses Retail","Macy's (Herald Square) - Public Relations","Macys HS PR","464 DPL",,FMN,M,Business
+461.450000,0.00000," ","Statcom Communications","Site 001 Confirmed LCN",,,,LTR,,TRS
+461.487500,0.00000,KFH397,"Airports Airline Ground Operations","American Airlines - Maintenance","LGA AA Mnt","516 DPL",,FMN,RM,Business
+461.500000,466.50000,WQCI921,EMS,"Douglastown Community Ambulance","Douglastown EMS","723 DPL",,FMN,RM,"EMS Dispatch"
+461.500000,466.50000,WQCI921,EMS,"Bayside Volunteer Ambulance","Bayside EMS","226 DPL",,FMN,RM,"EMS Dispatch"
+461.500000,0.00000,WQCI921,EMS,"Flushing Volunteer Ambulance","Flushing EMS","125 DPL",,FMN,BM,"EMS Dispatch"
+461.500000,0.00000,WQCI921,EMS,"Whitestone Volunteer Ambulance","Whitestone EMS","306 DPL",,FMN,BM,"EMS Dispatch"
+461.512500,0.00000,WQY604,"Media Radio and Television","Shadow Traffic Chopper","Shadow Traff","223 DPL",,FMN,M,Media
+461.562500,0.00000," ","Rockefeller Center","Site 001 Rockefeller Center",,,,DMR,,TRS
+461.575000,466.57500,WPBF524,"Kingsborough Community College","Public Safety","KngborCC Pub Saf","203.5 PL",,FMN,RM,Security
+461.575000,0.00000," ","Hertz Rental Car (LGA)","Site 001 LGA",,,,DMR,,TRS
+461.612500,0.00000,WPFW319,"Airports Airline Ground Operations","Delta Airlines - Maintenance","LGA DeltaMnt","503 DPL",,FMN,RM,Business
+461.612500,0.00000," ","Delta Airlines (LGA)","Site 001 LGA",,,,DMR,,TRS
+461.675000,0.00000,WPAJ275,"Airports Airline Ground Operations","American Airlines","LGA American","346 DPL",,FMN,RM,Business
+461.675000,0.00000," ","American Airlines (LGA)","Site 001 LGA",,,,DMR,,TRS
+461.712500,466.71250,WQTM354,"Attractions South Street Seaport","South Street Seaport Security","S St Seaprt Sec","CC 7|TG 778877|SL 1",,DMR,RM,Security
+461.725000,0.00000,WPAJ275,"Airports Airline Ground Operations","American Airlines","LGA American","346 DPL",,FMN,RM,Business
+461.750000,0.00000," ","Rockefeller Center","Site 001 Rockefeller Center",,,,DMR,,TRS
+461.775000,0.00000," ","Statcom Communications","Site 002 SI #2",,,,LTR,,TRS
+461.787500,0.00000," ","Yankee Stadium","Site 001 Yankee Stadium",,,,DMR,,TRS
+461.825000,0.00000," ","Statcom Communications","Site 001 Confirmed LCN",,,,LTR,,TRS
+461.862500,0.00000," ","Yankee Stadium","Site 001 Yankee Stadium",,,,DMR,,TRS
+461.900000,0.00000," ","SI 2way","Site 001 Confirmed LCN",,,,LTR,,TRS
+461.925000,466.92500,WPUI822,EMS,"New York Presbyterian EMS","NYP EMS","023 DPL",,FMN,RM,"EMS Dispatch"
+461.937500,0.00000," ","Yankee Stadium","Site 001 Yankee Stadium",,,,DMR,,TRS
+461.962500,0.00000," ","Delta Airlines (JFK)","Site 001 Delta Lounge",,,,DMR,,TRS
+461.975000,0.00000," ","Hertz Rental Car (LGA)","Site 001 LGA",,,,DMR,,TRS
+462.025000,0.00000,WPAJ275,"Airports Airline Ground Operations","American Airlines","LGA American","346 DPL",,FMN,RM,Business
+462.025000,0.00000," ","American Airlines (LGA)","Site 001 LGA",,,,DMR,,TRS
+462.075000,0.00000," ","Statcom Communications","Site 001 Confirmed LCN",,,,LTR,,TRS
+462.075000,0.00000," ","Hotel Indigo - Lower East Side","Site 001 Hotel",,,,DMR,,TRS
+462.125000,0.00000," ","LaGuardia Airport Central Terminal","Site 001 Central Terminal",,,,DMR,,TRS
+462.150000,0.00000," ","Rockefeller Center","Site 001 Rockefeller Center",,,,DMR,,TRS
+462.175000,0.00000,WPAJ275,"Airports Airline Ground Operations","American Airlines","LGA American","346 DPL",,FMN,RM,Business
+462.175000,0.00000," ","American Airlines (LGA)","Site 001 LGA",,,,DMR,,TRS
+462.225000,0.00000," ","SI 2way","Site 001 Confirmed LCN",,,,LTR,,TRS
+462.250000,0.00000," ","SI 2way","Site 001 Confirmed LCN",,,,LTR,,TRS
+462.275000,467.27500,WPMX437,"Businesses Taxi and Limo Services","New Day Night Car Service",DayNight,"073 DPL",,FMN,BM,Transportation
+462.325000,0.00000," ","Delta Airlines (LGA)","Site 001 LGA",,,,DMR,,TRS
+462.375000,467.37500,WNNG369,"New York University",Security,"NYU Sec","CC 3|TG 1691787|SL 1",,DMR,RM,Security
+462.437500,467.43750,WQPQ666,"Businesses Business Improvement Districts","Downtown Alliance Public Safety","DwntwnAll PS","CC 2|TG 325|SL 1",,DMR,RM,Security
+462.450000,0.00000," ","Statcom Communications","Site 001 Confirmed LCN",,,,LTR,,TRS
+462.537500,0.00000," ","Nassau Suffolk Communications (NEXEDGE)","Site 034 Manhattan",,,,NXDN,,TRS
+462.737500,0.00000," ","Nassau Suffolk Communications (NEXEDGE)","Site 033 North Shore Towers",,,,NXDN,,TRS
+462.950000,467.95000,WNBS209,"Health and Hospitals Corp","MED 9","MED 9","167.9 PL",,FMN,RM,Hospital
+462.950000,467.95000,WNBT230,EMS,"Glen Oaks Volunteer Ambulance","Glen Oaks EMS","151.4 PL",,FMN,RM,"EMS Dispatch"
+462.975000,467.97500,WNBS209,"Health and Hospitals Corp","MED 10","MED 10","167.9 PL",,FMN,RM,Hospital
+463.000000,468.00000,WNBS209,"Health and Hospitals Corp","MED 1","MED 1","167.9 PL",,FMN,RM,Hospital
+463.025000,468.02500,WNBS209,"Health and Hospitals Corp","MED 2","MED 2","167.9 PL",,FMN,RM,Hospital
+463.050000,468.05000,WNBS209,"Health and Hospitals Corp","MED 3","MED 3","167.9 PL",,FMN,RM,Hospital
+463.075000,468.07500,WNBS209,"Health and Hospitals Corp","MED 4","MED 4","167.9 PL",,FMN,RM,Hospital
+463.100000,468.10000,WNBS209,"Health and Hospitals Corp","MED 5","MED 5","167.9 PL",,FMN,RM,Hospital
+463.125000,468.12500,WNBS209,"Health and Hospitals Corp","MED 6","MED 6","167.9 PL",,FMN,RM,Hospital
+463.150000,468.15000,WNBS209,"Health and Hospitals Corp","MED 7","MED 7","167.9 PL",,FMN,RM,Hospital
+463.175000,468.17500,WNBS209,"Health and Hospitals Corp","MED 8","MED 8","167.9 PL",,FMN,RM,Hospital
+463.181250,0.00000,,"Volunteer Fire Departments","Broad Channel FD Fireground","BCVFD FG","192.8 PL",,FMN,M,Fire-Tac
+463.200000,0.00000,WQTE909,"Health and Hospitals Corp","Bronx Municipal Hospital","Bx Hospital",,,FMN,BM,"Public Works"
+463.225000,0.00000,KTP507,"Health and Hospitals Corp","Bird S. Coler Hospital",BirdColerHsp,,,FMN,B,"Public Works"
+463.225000,0.00000,KNFS392,"Health and Hospitals Corp","Harlem Hospital","Harlem Hosp",,,FMN,B,"Public Works"
+463.225000,0.00000,WQHT879,"Health and Hospitals Corp","Bellevue Hospital",BellevueHosp,,,FMN,B,"Public Works"
+463.225000,468.22500,WNUR820,"Health and Hospitals Corp","Lincoln Hospital Police","Lincoln Hosp PD","503 DPL",,FMN,RM,"Law Dispatch"
+463.262500,468.26250,WQJD263,"Airports Airline Ground Operations","Swissport Ramp","Swissport Ramp","CC 3|TG *|SL 1",,DMR,RM,Business
+463.262500,468.26250,WQJD263,"Airports Airline Ground Operations","Swissport Cleaning","Swissport Clean","CC 3|TG *|SL 2",,DMR,RM,Business
+463.387500,468.38750,WQES599,EMS,"Volunteer Heart Ambulance (Staten Island) - North","VHRU North","107.2 PL",,FMN,RM,"EMS Dispatch"
+463.387500,0.00000,WQES599,EMS,"Volunteer Heart Ambulance (Staten Island) - Tac","VHRU Tac","156.7 PL",,FMN,M,EMS-Tac
+463.387500,0.00000,WQBJ514,"Airports Airline Ground Operations",JetBlue,"LGA Jetblue","203.5 PL",,FMN,RM,Business
+463.425000,468.42500,WQTS258,"Airports Airline Ground Operations","COPA PAX Assist","COPA PAX Assist","632 DPL",,FMN,RM,Business
+463.487500,0.00000," ","Kirby Forensic Psychiatric Center","Site 001 Kirby FPC",,,,DMR,,TRS
+463.493750,0.00000," ","Nassau Suffolk Communications (NEXEDGE)","Site 033 North Shore Towers",,,,NXDN,,TRS
+463.562500,0.00000," ","Citi Field","Site 001 Citi Field",,,,DMR,,TRS
+463.562500,0.00000," ","Yankee Stadium","Site 001 Yankee Stadium",,,,DMR,,TRS
+463.600000,468.60000,WPMF238,"Airports Airline Ground Operations","Terminal Four","Terminal Fou","146.2 PL",,FMN,BM,Business
+463.600000,468.60000,WQMR463,"Businesses Hotels and Lodging","400 Fifth Avenue Hotel - Maintenance","400 5th Av M",,,FMN,RM,Business
+463.600000,468.60000,KUK372,"Businesses Hospitals","Queens Hospital Security",QnsHspSecrty,"146.2 PL",,FMN,RM,Security
+463.637500,0.00000," ","Yankee Stadium","Site 001 Yankee Stadium",,,,DMR,,TRS
+463.687500,0.00000," ","Delta Airlines (JFK)","Site 001 Delta Lounge",,,,DMR,,TRS
+463.700000,0.00000,,"Columbia University","Manhattanville Security","CU Mv Sec","205 DPL",,FMN,BM,Security
+463.712500,468.71250,WQJC219,"St. John's University",Security,"SJU Security","CC 1|TG 1|SL *",,DMR,RM,Security
+463.737500,468.73750,,"Businesses Miscellaneous","Metrotech Complex - Security",MetrotechSec,"162.2 PL",,FMN,RM,Security
+463.750000,0.00000,KNFJ893,"Businesses Taxi and Limo Services","Kew Gardens Car Service","Kew Car","732 DPL",,FMN,BM,Transportation
+463.787500,0.00000,,"Businesses World Trade Center","WTC Construction 2","WTC Const 2",CSQ,,FMN,M,Business
+463.787500,0.00000," ","JetBlue Airways (JFK)","Site 001 JFK",,,,DMR,,TRS
+463.787500,0.00000," ","Yankee Stadium","Site 001 Yankee Stadium",,,,DMR,,TRS
+463.800000,468.80000,,"Airports Airline Ground Operations","Terminal One","Terminal One","114.8 PL",,FMN,BM,Business
+463.800000,468.80000,WQIP479,"Airports Airline Ground Operations","Terminal Four","Terminal Fou","351 DPL",,FMN,BM,Business
+463.906250,0.00000," ","Nassau Suffolk Communications (NEXEDGE)","Site 033 North Shore Towers",,,,NXDN,,TRS
+463.912500,468.91250,WQKF775,"Businesses Miscellaneous","Bronx Terminal Market","Bronx Term Markt","CC 13|TG 10000|SL 1",,DMR,RM,Business
+463.937500,468.93750,WPPH412,"Airports Airline Ground Operations",Iberia,Iberia,"123.0 PL",,FMN,BM,Business
+464.000000,0.00000," ","Delta Airlines (JFK)","Site 001 Delta Lounge",,,,DMR,,TRS
+464.025000,469.02500,WPTV311,"Fordham University",Security,"Fordham Sec","CC 10|TG 1000|SL 1",,DMR,RM,Security
+464.062500,469.06250,WQNS290,"Businesses Hospitals","Montefiore Medical Center",MontefioreMC,"CC 1|TG 1|SL 1",,DMR,RM,Business
+464.075000,469.07500,WPGS514,"Businesses Taxi and Limo Services","Harlem Transportation",HarlemTrans,"85.4 PL",,FMN,BM,Transportation
+464.150000,469.15000,WQJV687,"Roosevelt Island Search and Rescue","Public Safety Ch. 2","RI PS 2","167.9 PL",,FMN,RM,Security
+464.200000,469.20000,WQVQ656,"New York University","Security Patrols","NYU SecPatrl","271 DPL",,FMN,BM,Security
+464.212500,469.21250,WQKK660,"Roosevelt Island Search and Rescue","Public Safety Ch. 1 Dispatch","RI PS 1 Disp","74.4 PL",,FMN,RM,Security
+464.212500,469.21250,WQKK660,"Roosevelt Island Search and Rescue","Search and Rescue Ch. 1",RISAR,"118.8 PL",,FMN,RM,"EMS Dispatch"
+464.275000,469.27500,WPPT651,"Businesses Housing","Stuyvesant Town-Peter Cooper Village Public Safety 2","ST-PCV PS 2","CC 7|TG 70000|SL 1",,DMR,RM,Security
+464.325000,0.00000," ","Delta Airlines (JFK)","Site 001 Delta Lounge",,,,DMR,,TRS
+464.375000,469.37500,WQMR758,"Airports Airline Ground Operations","Swiss Airlines PAX Assist","Swiss Air PAXAst","431 DPL",,FMN,RM,Business
+464.425000,0.00000,KWW250,"City University of New York","CUNY - Queens Campus",CUNYQueens,,,FMN,B,Schools
+464.425000,469.42500,WNJE792,"Attractions American Museum of Natural History",Security,"MoNH Security","CC 14|TG 100235|SL 1",,DMR,RM,Security
+464.425000,469.42500,WNVM531,"Businesses Housing","North Shore Towers Maintenance","NST Maintenance","179.9 PL",,FMN,RM,Business
+464.450000,0.00000," ","Specialized Mobile Radio","Site 000 Kings",,,,LTR,,TRS
+464.450000,0.00000," ","LaGuardia Airport Central Terminal","Site 001 Central Terminal",,,,DMR,,TRS
+464.487500,0.00000,,"Stuyvesant High School","Technology Department Ch. 12","SHS Tech 12","79.7 PL",,FMN,M,Schools
+464.500000,0.00000,,"Stuyvesant High School","Technology Department Ch. 1","SHS Tech 1","67.0 PL",,FMN,M,Schools
+464.500000,0.00000,,"Stuyvesant High School","Technology Department Ch. 3","SHS Tech 3","88.5 PL",,FMN,M,Schools
+464.500000,0.00000,,"Stuyvesant High School","Technology Department Ch. 4","SHS Tech 4","179.9 PL",,FMN,M,Schools
+464.500000,0.00000,,"Stuyvesant High School","Technology Department Ch. 5","SHS Tech 5",CSQ,,FMN,M,Schools
+464.537500,0.00000,,"Stuyvesant High School","Technology Department Ch. 13","SHS Tech 13","85.4 PL",,FMN,M,Schools
+464.550000,0.00000,,"Stuyvesant High School","Technology Department Ch. 6","SHS Tech 6","67.0 PL",,FMN,M,Schools
+464.550000,0.00000,,"Stuyvesant High School","Technology Department Ch. 7","SHS Tech 7","82.5 PL",,FMN,M,Schools
+464.550000,0.00000,,"Stuyvesant High School","Technology Department Ch. 8","SHS Tech 8","94.8 PL",,FMN,M,Schools
+464.550000,0.00000,,"Stuyvesant High School","Technology Department Ch. 9","SHS Tech 9","179.9 PL",,FMN,M,Schools
+464.550000,0.00000,,"Stuyvesant High School","Technology Department Ch. 10","SHS Tech 10",CSQ,,FMN,M,Schools
+464.587500,0.00000," ","Delta Airlines (JFK)","Site 002 Delta Cargo Building",,,,DMR,,TRS
+464.662500,0.00000,WRML273,Hatzalah,"Hatzalah UHF Rebroadcast","Hatzalah UHF","167.9 PL",,FMN,B,"EMS Dispatch"
+464.687500,469.68750,WPSZ457,"Airports Airline Ground Operations",Delta,Delta,"506 DPL",,FMN,BM,Business
+464.687500,469.68750,WQTM909,"Businesses Taxi and Limo Services","La Rebancha Car Service","La Rebancha Car","250.3 PL",,FMN,RM,Transportation
+464.687500,0.00000," ","Citi Field","Site 001 Citi Field",,,,DMR,,TRS
+464.800000,469.80000,WPOG576,"Businesses Taxi and Limo Services","Apple Radio Car Service",AppleCar,"203.5 PL",,FMN,BM,Transportation
+464.825000,469.82500,KNNJ457,"Businesses Housing","Park Chester Condos",PrkChCondos,"CC 6|TG 4000|SL 1",,DMR,RM,Business
+464.837500,0.00000," ","British Airways (JFK)","Site 001 JFK",,,,DMR,,TRS
+464.875000,469.87500,WPUD784,"Airports Airline Ground Operations","Caribbean Airlines",Caribbean,"141.3 PL",,FMN,RM,Business
+464.875000,469.87500,WQCR763,"Businesses Ports","Ports America","Ports America","CC 9|TG 1|SL *",,DMR,RM,Business
+464.900000,0.00000,WPZS712,"Airports Airline Ground Operations","Gate Gourmet - Catering","LGA GateGour","723 DPL",,FMN,RM,Business
+464.900000,469.90000,KNNJ457,"Businesses Housing","Park Chester Condos",PrkChCondos,"CC 8|TG 4000|SL 1",,DMR,RM,Business
+464.912500,469.91250,WQXA233,"Airports Airline Ground Operations","PAX Assist","PAX Assist","CC 1|TG *|SL *",,DMR,RM,Business
+464.925000,469.92500,WQIX626,"Barnard College",Security,"Barnard Srty","155 DPL",,FMN,RM,Security
+464.925000,469.92500,WQTM355,"Businesses Hotels","Crowne Plaza JFK","CrPlaza JFK","CC 7|TG 1|SL 1",,DMR,RM,Business
+464.975000,469.97500,WNJE792,"Attractions American Museum of Natural History",Maintenance/Housekeeping,"MoNH Mnt/Hsk",,,FMN,RM,Business
+464.987500,469.98750,,"Businesses Hospitals","Tisch Hospital - Security",TischHospSec,"624 DPL",,FMN,RM,Security
+465.112500,0.00000,WPBQ332,Tactical,"Tac J - Narcotics","NYPD Tac J","203.5 PL",,FMN,M,"Law Tac"
+465.187500,0.00000,WPBQ332,Tactical,"Tac K - Narcotics","NYPD Tac K","210.7 PL",,FMN,M,"Law Tac"
+465.237500,0.00000,WPBQ332,Tactical,"Tac L - Narcotics","NYPD Tac L","218.1 PL",,FMN,M,"Law Tac"
+465.312500,0.00000,WPBQ332,Tactical,"Tac M - Narcotics","NYPD Tac M","225.7 PL",,FMN,M,"Law Tac"
+465.462500,0.00000,WPBQ332,Tactical,"Tac N - Narcotics","NYPD Tac N","233.6 PL",,FMN,M,"Law Tac"
+465.487500,0.00000,WPBQ332,Tactical,"Tac O - Narcotics","NYPD Tac O","241.8 PL",,FMN,M,"Law Tac"
+465.500000,0.00000,,"Stuyvesant High School","Technology Department Ch. 2","SHS Tech 2","77.0 PL",,FMN,M,Schools
+465.562500,0.00000,KLG642,"Volunteer Fire Departments","Rockaway Point Fireground","RPFD FG","192.8 PL",,FMN,M,Fire-Tac
+466.037500,0.00000,,"Stuyvesant High School","Technology Department Ch. 14","SHS Tech 14","91.5 PL",,FMN,M,Schools
+466.087500,0.00000,,"Stuyvesant High School","Technology Department Ch. 15","SHS Tech 15","97.4 PL",,FMN,M,Schools
+466.837500,0.00000,,"Attractions Theater","Astor Place Theater Ch. 2","AstorPlace 2","516 DPL",,FMN,M,Business
+467.762500,0.00000,,"Businesses Retail","Home Depot Glendale and Woodhaven Blvd",HomeDepot,,,FMN,M,Business
+468.187500,0.00000,,"Businesses Housing","Rockaway Revival Maintenance/Security Ch 2","Rockaway Rev 2","423 DPL",,FMN,BM,Business
+468.212500,0.00000,,"Businesses Housing","Rockaway Revival Security/Maintenance Ch 1","Rockaway Rev 1","413 DPL",,FMN,BM,Security
+468.662500,0.00000,,"Attractions Theater","Astor Place Theater Ch. 1","AstorPlace 1","445 DPL",,FMN,M,Business
+469.137500,0.00000,,"Businesses World Trade Center","WTC Construction 1","WTC Const 1","174 DPL",,FMN,M,Business
+469.887500,0.00000,,"Businesses Retail","Bloomingdale's (59th Street)",Bloomingdale,"606 DPL",,FMN,M,Business
+470.387500,473.38750,KGK700,"Transit Authority","Power Section","Power Sectn",,,FMN,RM,Transportation
+470.437500,473.43750,,"Transit Authority","Staten Island Railway","SI Railway","141.3 PL",,FMN,RM,Transportation
+470.487500,473.48750,WPVS838,"Transit Authority","Maintenance of Way",MOW,"123.0 PL",,FMN,RM,Transportation
+470.637500,473.63750,WIF561,Citywide,"VIP Escort (Detective 2)","NYPD VIP Escort","EF1 NAC",,P25E,RM,"Law Tac"
+470.662500,473.66250,WQON439,Citywide,"World Trade Center Patrols","NYPD WTC","09D NAC",,P25E,RM,"Law Tac"
+470.687500,473.68750,WIK936,Citywide,"Citywide 1","NYPD CW 1","100.0 PL",,FM,RM,"Law Dispatch"
+470.712500,473.71250,WIK929,Citywide,"Citywide 2","NYPD CW 2","110.9 PL",,FM,RM,"Law Dispatch"
+470.737500,473.73750,WIF565,Citywide,"Detective Citywide (Detective 1)","NYPD DET CW","186.2 PL",,FM,RM,"Law Tac"
+470.762500,473.76250,WIF563,Citywide,"Internal Affairs Bureau","NYPD IAB","EF2 NAC",,P25E,RM,"Law Tac"
+470.787500,473.78750,WIK928,"Transit Bureau",Citywide,"Transit Citywide","371 DPL",,FM,RM,"Law Dispatch"
+470.812500,473.81250,WIF559,Citywide,"Traffic Division (Highway Units)","NYPD Traffic","902 NAC",,P25E,RM,"Law Dispatch"
+470.837500,473.83750,WIF567,Citywide,"Special Operations Division","NYPD SOD","37C NAC",,P25E,RM,"Law Dispatch"
+470.862500,473.86250,WIF562,Citywide,"Citywide 3","NYPD CW 3","151.4 PL",,FM,RM,"Law Dispatch"
+470.887500,473.88750,WIF560,Citywide,"Citywide 4","NYPD CW 4","EF0 NAC",,P25E,RM,"Law Dispatch"
+470.912500,473.91250,WIK930,"Transit Bureau","Division 3 - Queens/Brooklyn East","Transit Div 3","032 DPL",,FM,RM,"Law Dispatch"
+470.937500,473.93750,WIK932,Queens,"Patrol Borough Queens","NYPD PB QN","167.9 PL",,FM,RM,"Law Dispatch"
+470.962500,473.96250,WIK934,"Transit Bureau","Division 4 - Brooklyn West and South","Transit Div 4","047 DPL",,FM,RM,"Law Dispatch"
+470.987500,473.98750,WIK933,Brooklyn,"Patrol Borough Brooklyn","NYPD PB BK","136.5 PL",,FM,RM,"Law Dispatch"
+471.012500,474.01250,WIF569,Citywide,"Organized Crime Control Bureau","NYPD OCCB","EF3 NAC",,P25E,RM,"Law Tac"
+471.037500,474.03750,WIK935,Bronx,"Patrol Borough Bronx","NYPD PB BX","123.0 PL",,FM,RM,"Law Dispatch"
+471.062500,474.06250,WIF568,Manhattan,"Patrol Borough Manhattan","NYPD PB MN","110.9 PL",,FM,RM,"Law Dispatch"
+471.087500,474.08750,WIH585,"Transit Bureau","Division 1 - Manhattan South","Transit Div 1","025 DPL",,FM,RM,"Law Dispatch"
+471.112500,474.11250,WIF536,Citywide,"Communications Div., Fleet Services","NYPD CDCW","110.9 PL",,FM,RM,"Law Tac"
+471.137500,474.13750,WIF566,Citywide,Command,"NYPD Command","EF4 NAC",,P25E,RM,"Law Tac"
+471.162500,474.16250,WQAH641,"Parking Enforcement","Intersection Ctrl/Tfc Intell/Nighthawks","Parking CW","151.4 PL",,FM,BM,"Law Dispatch"
+471.187500,474.18750,WQBJ426,"Parking Enforcement","Queens Summons Enforcement","Parking QN","151.4 PL",,FM,BM,"Law Dispatch"
+471.212500,474.21250,WPZY207,"Parking Enforcement","Brooklyn Summons Enforcement","Parking BK","151.4 PL",,FM,BM,"Law Dispatch"
+471.237500,0.00000," ","New York City Police Department (NYPD)","Site 001 NYC",,,,"Project 25",,TRS
+471.262500,474.26250,KWV665,"Dept of Correction","Citywide and Transportation","DOC Citywide","114.8 PL",,FM,RM,Corrections
+471.412500,474.41250,KWF680,"School Safety Division","Citywide 1","SSD 1 CW","141.3 PL",,FM,RM,"Law Dispatch"
+471.462500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+471.462500,0.00000," ","Atlantic Telecommunications","Site 001 Primary",,,,LTR,,TRS
+471.487500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+471.512500,0.00000," ","OneVoice Network","Site 007 Glen Oaks",,,,DMR,,TRS
+471.562500,0.00000," ","OneVoice Network","Site 007 Glen Oaks",,,,DMR,,TRS
+471.612500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+471.637500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+471.687500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+471.725000,474.72500,WPMB372,EMS,"First Responder Ambulance","1stResponder EMS","CC 10|TG *|SL *",,DMR,BM,"EMS Dispatch"
+471.762500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+471.762500,0.00000," ","Atlantic Telecommunications","Site 001 Primary",,,,LTR,,TRS
+471.787500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+471.812500,474.81250,KUE800,"School Safety Division","Citywide 2","SSD 2 CW","91.5 PL",,FM,RM,"Law Dispatch"
+471.862500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+471.862500,0.00000," ","Atlantic Telecommunications","Site 001 Primary",,,,LTR,,TRS
+471.962500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+472.012500,0.00000," ","OneVoice Network","Site 007 Glen Oaks",,,,DMR,,TRS
+472.037500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+472.062500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+472.112500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+472.137500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+472.162500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+472.212500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+472.237500,0.00000,KQV228,"Businesses Taxi and Limo Services","Surf Car Systems (Far Rockaway)","Surf Car","114.8 PL",,FMN,BM,Transportation
+472.237500,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+472.237500,0.00000," ","Atlantic Telecommunications","Site 001 Primary",,,,LTR,,TRS
+472.262500,0.00000," ","OneVoice Network","Site 007 Glen Oaks",,,,DMR,,TRS
+472.287500,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+472.287500,0.00000," ","Atlantic Telecommunications","Site 001 Primary",,,,LTR,,TRS
+472.287500,0.00000," ","OneVoice Network","Site 068 1 Hanson Pl",,,,DMR,,TRS
+472.337500,0.00000," ","Atlantic Telecommunications","Site 002 Secondary",,,,LTR,,TRS
+472.512500,0.00000," ","Statcom Communications","Site 001 Confirmed LCN",,,,LTR,,TRS
+472.612500,475.61250,KZD416,"Parking Enforcement","Manhattan/S.I. Summons Enforcement","Parking MN/SI","151.4 PL",,FM,BM,"Law Dispatch"
+472.612500,0.00000," ","New York City Police Department (NYPD)","Site 001 NYC",,,,"Project 25",,TRS
+472.737500,0.00000," ","OneVoice Network","Site 007 Glen Oaks",,,,DMR,,TRS
+472.762500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+472.787500,0.00000," ","Atlantic Telecommunications","Site 001 Primary",,,,LTR,,TRS
+472.787500,0.00000," ","OneVoice Network","Site 068 1 Hanson Pl",,,,DMR,,TRS
+472.812500,0.00000," ","OneVoice Network","Site 007 Glen Oaks",,,,DMR,,TRS
+472.887500,0.00000," ","OneVoice Network","Site 007 Glen Oaks",,,,DMR,,TRS
+472.912500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+472.912500,0.00000," ","OneVoice Network","Site 007 Glen Oaks",,,,DMR,,TRS
+472.937500,0.00000," ","Atlantic Telecommunications","Site 001 Primary",,,,LTR,,TRS
+473.687500,0.00000,WIK936,Tactical,"Tac G - SOD Primary","NYPD Tac G","210.7 PL",,FM,M,"Law Tac"
+473.712500,0.00000,WIK929,Tactical,"Tac H - SOD Secondary","NYPD Tac H","218.1 PL",,FM,M,"Law Tac"
+476.312500,479.31250,WIF539,Manhattan,"20/CPk/24 Precincts","NYPD MN 20/24/CP","167.9 PL",,FM,RM,"Law Dispatch"
+476.337500,479.33750,WIF548,Manhattan,"10/13 Precincts","NYPD MN 10/13","123.0 PL",,FM,RM,"Law Dispatch"
+476.362500,479.36250,WIF538,Manhattan,"26/30 Precincts","NYPD MN 26/30","100.0 PL",,FM,RM,"Law Dispatch"
+476.387500,479.38750,WIF576,Manhattan,"19/23 Precincts","NYPD MN 19/23","151.4 PL",,FM,RM,"Law Dispatch"
+476.412500,479.41250,WIF555,Brooklyn,"72/76/78 Precincts","NYPD BK 72/76/78","09C NAC",,P25E,RM,"Law Dispatch"
+476.437500,479.43750,WIF575,Manhattan,"6/9 Precincts","NYPD MN 6/9","110.9 PL",,FM,RM,"Law Dispatch"
+476.462500,479.46250,WIF557,Brooklyn,"60/61 Precincts","NYPD BK 60/61 ","784 NAC",,P25E,RM,"Law Dispatch"
+476.487500,479.48750,WIF579,Bronx,"46/48 Precincts","NYPD BX 46/48","71E NAC",,P25E,RM,"Law Dispatch"
+476.512500,479.51250,WIF580,Brooklyn,"62/68 Precincts","NYPD BK 62/68 ","7E7 NAC",,P25E,RM,"Law Dispatch"
+476.537500,479.53750,WIF571,Bronx,"40/41 Precincts","NYPD BX 40/41","5AB NAC",,P25E,RM,"Law Dispatch"
+476.562500,479.56250,WIF549,Manhattan,"1/5/7 Precincts","NYPD MN 1/5/7","F8B NAC",,P25E,RM,"Law Dispatch"
+476.587500,479.58750,WIF542,Manhattan,"MTS/17/MTN Precincts","NYPD MN 17/MTx","8C7 NAC",,P25E,RM,"Law Dispatch"
+476.612500,479.61250,WIF577,Queens,"108/114 Precincts","NYPD QN 108/114","136.5 PL",,FM,RM,Deprecated
+476.612500,479.61250,WIF577,Queens,"108/114 Precincts","NYPD QN 108/114","E6B NAC",,P25E,RM,"Law Dispatch"
+476.637500,479.63750,WIF537,Manhattan,"25/28/32 Precincts","NYPD MN 25/28/32","186.2 PL",,FM,RM,"Law Dispatch"
+476.662500,479.66250,WIF544,Bronx,"50/52 Precincts","NYPD BX 50/52","A41 NAC",,P25E,RM,"Law Dispatch"
+476.687500,479.68750,WIF546,Brooklyn,"90/94 Precincts","NYPD BK 90/94 ","24A NAC",,P25E,RM,"Law Dispatch"
+476.712500,479.71250,WIF578,Queens,"104/112 Precincts","NYPD QN 104/112","123.0 PL",,FM,RM,"Law Dispatch"
+476.737500,479.73750,WIF540,Brooklyn,"77/79 Precincts","NYPD BK 77/79 ","189 NAC",,P25E,RM,"Law Dispatch"
+476.762500,479.76250,WIF556,Brooklyn,"84/88 Precincts","NYPD BK 84/88 ","E10 NAC",,P25E,RM,"Law Dispatch"
+476.787500,479.78750,WIF554,Brooklyn,"81/83 Precincts","NYPD BK 81/83 ","496 NAC",,P25E,RM,"Law Dispatch"
+476.812500,479.81250,WIF573,Queens,"110/115 Precincts","NYPD QN 110/115","167.9 PL",,FM,RM,"Law Dispatch"
+476.837500,479.83750,WIF570,Bronx,"42/44 Precincts","NYPD BX 42/44","972 NAC",,P25E,RM,"Law Dispatch"
+476.862500,479.86250,WIF551,Brooklyn,"66/70 Precincts","NYPD BK 66/70 ","4D5 NAC",,P25E,RM,"Law Dispatch"
+476.887500,479.88750,WIF541,Manhattan,"33/34 Precincts","NYPD MN 33/34","110.9 PL",,FM,RM,"Law Dispatch"
+476.912500,479.91250,WIF543,Bronx,"43/45 Precincts","NYPD BX 43/45","EAD NAC",,P25E,RM,"Law Dispatch"
+476.937500,479.93750,WIF574,Brooklyn,"63/69 Precincts","NYPD BK 63/69 ","BCF NAC",,P25E,RM,"Law Dispatch"
+476.962500,479.96250,WIF545,Bronx,"47/49 Precincts","NYPD BX 47/49","7C0 NAC",,P25E,RM,"Law Dispatch"
+476.987500,479.98750,WIF553,Brooklyn,"73/75 Precincts","NYPD BK 73/75 ","ED8 NAC",,P25E,RM,"Law Dispatch"
+477.012500,480.01250,WIF581,Brooklyn,"67/71 Precincts","NYPD BK 67/71 ","8AA NAC",,P25E,RM,"Law Dispatch"
+477.037500,480.03750,WIF558,Queens,"103/107 Precincts","NYPD QN 103/107","100.0 PL",,FM,RM,"Law Dispatch"
+477.062500,480.06250,WIF547,Queens,"109/111 Precincts","NYPD QN 109/111","151.4 PL",,FM,RM,"Law Dispatch"
+477.087500,480.08750,WIF550,Queens,"102/106 Precincts","NYPD QN 102/106","1F6 NAC",,P25E,RM,"Law Dispatch"
+477.112500,480.11250,WIF572,Queens,"105/113/116 Precincts","NYPD QN 105/113","3D6 NAC",,P25E,RM,"Law Dispatch"
+477.137500,480.13750,WIF552,Queens,"100/101 Precincts","NYPD QN 100/101","167.9 PL",,FM,RM,Deprecated
+477.137500,480.13750,WIF552,Queens,"100/101 Precincts","NYPD QN 100/101","BBE NAC",,P25E,RM,"Law Dispatch"
+477.437500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+477.462500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+477.487500,0.00000," ","Atlantic Telecommunications","Site 002 Secondary",,,,LTR,,TRS
+477.562500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+477.562500,0.00000," ","Atlantic Telecommunications","Site 001 Primary",,,,LTR,,TRS
+477.737500,0.00000," ","OneVoice Network","Site 007 Glen Oaks",,,,DMR,,TRS
+477.762500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+477.762500,0.00000," ","Specialized Mobile Radio","Site 000 Kings",,,,LTR,,TRS
+477.812500,480.81250,WIJ591,EMS,"First Responder Ambulance","1stResponder EMS","CC 1|TG *|SL *",,DMR,BM,"EMS Dispatch"
+477.812500,0.00000," ","Statcom Communications","Site 001 Confirmed LCN",,,,LTR,,TRS
+478.012500,481.01250,WIF518,EMS,"EMS Subway","EMS Subway","85.4 PL",,FMN,B,EMS-Tac
+478.037500,481.03750,WPKK782,"Other Services","Off-Track Betting Security","OTB Security","103.5 PL",,FM,RM,Security
+478.037500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+478.062500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+478.087500,0.00000," ","Statcom Communications","Site 001 Confirmed LCN",,,,LTR,,TRS
+478.112500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+478.112500,0.00000," ","Atlantic Telecommunications","Site 001 Primary",,,,LTR,,TRS
+478.162500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+478.300000,0.00000," ","American Express","Site 001 World Financial Center",,,,DMR,,TRS
+478.437500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+478.437500,0.00000," ","OneVoice Network","Site 006 Court Plaza",,,,DMR,,TRS
+478.700000,0.00000," ","American Express","Site 001 World Financial Center",,,,DMR,,TRS
+478.787500,0.00000," ","OneVoice Network","Site 005 700 Victory",,,,DMR,,TRS
+478.812500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+478.862500,0.00000," ","OneVoice Network","Site 004 1515 Broadway",,,,DMR,,TRS
+482.006250,0.00000,WQFH239,Dispatch,"Bronx Dispatch","FDNY BX Dispatch","131.8 PL",,FMN,B,"Fire Dispatch"
+482.018750,0.00000,WQFH239,Dispatch,"Brooklyn Dispatch","FDNY BK Dispatch","136.5 PL",,FMN,B,"Fire Dispatch"
+482.031250,0.00000,WQFH239,Dispatch,"Queens Dispatch","FDNY QN Dispatch","141.3 PL",,FMN,B,"Fire Dispatch"
+482.037500,0.00000,WQHX483,"Dept of Correction","Rikers ESU (on Island)","DOC Rikers","023 DPL",,FM,M,Corrections
+482.043750,0.00000,WQFH238,Dispatch,"Staten Island Dispatch","FDNY SI Dispatch","151.4 PL",,FMN,B,"Fire Dispatch"
+482.081250,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 030 UHF Simulcast (30)",,,,"Project 25",,TRS
+482.093750,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 030 UHF Simulcast (30)",,,,"Project 25",,TRS
+482.106250,0.00000,WQFH238,Dispatch,"Manhattan Dispatch","FDNY MN Dispatch","146.2 PL",,FMN,B,"Fire Dispatch"
+482.118750,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 030 UHF Simulcast (30)",,,,"Project 25",,TRS
+482.131250,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 030 UHF Simulcast (30)",,,,"Project 25",,TRS
+482.143750,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 030 UHF Simulcast (30)",,,,"Project 25",,TRS
+482.156250,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 030 UHF Simulcast (30)",,,,"Project 25",,TRS
+482.168750,485.16875,WQFH238,EMS,"Citywide 1 Dispatch","EMS CW 1 Disp","156.7 PL",,FMN,RM,"EMS Dispatch"
+482.218750,485.21875,WQFH238,EMS,"Citywide 2 Dispatch","EMS CW 2 Disp","162.2 PL",,FMN,RM,"EMS Dispatch"
+482.231250,0.00000,WQFH238,Dispatch,"Citywide 1 Dispatch","FDNY CW1 Disptch","131.8 PL",,FMN,B,"Fire Dispatch"
+482.243750,485.24375,WQFH239,EMS,"Staten Island Dispatch","EMS SI Disp","136.5 PL",,FMN,RM,"EMS Dispatch"
+482.318750,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 030 UHF Simulcast (30)",,,,"Project 25",,TRS
+482.412500,485.41250,WIM519,"Staten Island","Patrol Borough Staten Island","NYPD PB SI ","100.0 PL",,FM,RM,"Law Dispatch"
+482.437500,485.43750,WIM523,Citywide,"Staten Island Citywide 3","NYPD SI CW 3","151.4 PL",,FM,RM,"Law Dispatch"
+482.462500,485.46250,WIM527,Citywide,"Staten Island Traffic Division (Highway Units)","NYPD SI Traffic","123.0 PL",,FM,RM,"Law Dispatch"
+482.506250,0.00000,WQFH239,EMS,"Citywide Tactical 1","EMS CW Tac 1","85.4 PL",,FMN,M,EMS-Tac
+482.506250,485.50625,WQFH239,EMS,"Brooklyn Central Dispatch","EMS BK C Disp","186.2 PL",,FMN,RM,"EMS Dispatch"
+482.506250,0.00000,WQFH239,EMS,"Queens West Tactical","EMS QN W Tac ","167.9 PL",,FMN,M,EMS-Tac
+482.518750,485.51875,WQFH239,EMS,"Queens West Dispatch","EMS QN W Disp","146.2 PL",,FMN,RM,"EMS Dispatch"
+482.518750,0.00000,WQFH239,EMS,"Brooklyn Central Tactical","EMS BK C Tac ","167.9 PL",,FMN,M,EMS-Tac
+482.587500,485.58750,WIM660,"Staten Island","122/123 Precincts","NYPD SI 122/123","B8B NAC",,P25E,RM,"Law Dispatch"
+482.637500,485.63750,WIM654,Citywide,"Staten Island Citywide 2","NYPD SI CW 2","110.9 PL",,FM,RM,"Law Dispatch"
+482.662500,485.66250,WIM487,Citywide,"Staten Island Citywide 1","NYPD SI CW 1","100.0 PL",,FM,RM,"Law Dispatch"
+482.687500,485.68750,WIM483,"NY Metropolitan Advisory Committee","NYMAC 1","NYMAC 1","110.9 PL",,FM,RM,Interop
+482.712500,485.71250,WIM479,"NY Metropolitan Advisory Committee","NYMAC 2","NYMAC 2","123.0 PL",,FM,RM,Interop
+482.737500,485.73750,WIM475,"NY Metropolitan Advisory Committee","NYMAC 4","NYMAC 4","136.5 PL",,FM,RM,Interop
+482.756250,485.75625,WQFH238,EMS,"Manhattan North Dispatch","EMS MN N Disp","151.4 PL",,FMN,RM,"EMS Dispatch"
+482.756250,0.00000,WQFH239,EMS,"Queens East Tactical","EMS QN E Tac ","167.9 PL",,FMN,M,EMS-Tac
+482.768750,485.76875,WQFH239,EMS,"Bronx South Dispatch","EMS BX S Disp","173.8 PL",,FMN,RM,"EMS Dispatch"
+482.768750,0.00000,WQFH239,EMS,"Brooklyn South Tactical","EMS BK S Tac ","167.9 PL",,FMN,M,EMS-Tac
+482.768750,0.00000,WQFH239,EMS,"Staten Island Tactical","EMS SI Tac","167.9 PL",,FMN,M,EMS-Tac
+482.787500,485.78750,WIM471,"NY Metropolitan Advisory Committee","NYMAC 5","NYMAC 5","151.4 PL",,FM,RM,Interop
+482.812500,485.81250,WIM676,"NY Metropolitan Advisory Committee","NYMAC 3","NYMAC 3","167.9 PL",,FM,RM,Interop
+482.837500,485.83750,WIM580,"NY Metropolitan Advisory Committee","NYMAC 6","NYMAC 6","186.2 PL",,FM,RM,Interop
+482.862500,485.86250,WIM584,"Transit Bureau","Division 2 - Manhattan North/Bronx","Transit Div 2","047 DPL",,FM,RM,"Law Dispatch"
+482.887500,485.88750,WIM576,"Staten Island","120/121 Precincts","NYPD SI 120/121","D62 NAC",,P25E,RM,"Law Dispatch"
+482.912500,485.91250,WIM638,Manhattan,"Patrol Borough Manhattan North 4","NYPD PB MN N 4","233 NAC",,P25E,RM,"Law Dispatch"
+482.937500,485.93750,WIM622,Queens,"Patrol Borough Queens North 4","NYPD PB QN N 4",,,P25E,RM,"Law Dispatch"
+482.956250,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 031 UHF Simulcast (31)",,,,"Project 25",,TRS
+482.968750,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 031 UHF Simulcast (31)",,,,"Project 25",,TRS
+482.981250,485.98125,WQFH238,EMS,"Manhattan Central Dispatch","EMS MN C Disp","156.7 PL",,FMN,RM,"EMS Dispatch"
+482.981250,0.00000,WQFH239,EMS,"Bronx North Tactical","EMS BX N Tac ","167.9 PL",,FMN,M,EMS-Tac
+483.012500,486.01250,WQHX483,Fireground,"High-Rise In-Building Repeater","FDNY Hi-Rise Rpt","173.8 PL",,FMN,RM,Fire-Tac
+483.031250,486.03125,WQFH239,EMS,"Queens East Dispatch","EMS QN E Disp","141.3 PL",,FMN,RM,"EMS Dispatch"
+483.031250,0.00000,WQFH239,EMS,"Manhattan North Tactical","EMS MN N Tac ","167.9 PL",,FMN,M,EMS-Tac
+483.062500,0.00000," ","New York City Police Department (NYPD)","Site 001 NYC",,,,"Project 25",,TRS
+483.087500,486.08750,WIM491,Brooklyn,"Patrol Borough Brooklyn South 1","NYPD PB BK S 1","7DE NAC",,P25E,RM,"Law Dispatch"
+483.162500,486.16250,WIM646,Bronx,"Patrol Borough Bronx 1","NYPD PB BX 1","6E9 NAC",,P25E,RM,"Law Dispatch"
+483.187500,486.18750,WIM626,Queens,"Patrol Borough Queens South 2","NYPD PB QN S 2","76F NAC",,P25E,RM,"Law Dispatch"
+483.206250,486.20625,WQFH239,EMS,"Bronx North Dispatch","EMS BX N Disp","167.9 PL",,FMN,RM,"EMS Dispatch"
+483.206250,0.00000,WQFH239,EMS,"Brooklyn North Tactical","EMS BK N Tac ","167.9 PL",,FMN,M,EMS-Tac
+483.218750,486.21875,WQFH238,EMS,"Manhattan South Dispatch","EMS MN S Disp","162.2 PL",,FMN,RM,"EMS Dispatch"
+483.218750,0.00000,WQFH239,EMS,"Bronx South Tactical","EMS BX S Tac","167.9 PL",,FMN,M,EMS-Tac
+483.231250,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 030 UHF Simulcast (30)",,,,"Project 25",,TRS
+483.243750,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 030 UHF Simulcast (30)",,,,"Project 25",,TRS
+483.281250,486.28125,WQFH239,EMS,"Brooklyn North Dispatch","EMS BK N Disp","173.8 PL",,FMN,RM,"EMS Dispatch"
+483.281250,0.00000,WQFH239,EMS,"Manhattan Central Tactical","EMS MN C Tac ","167.9 PL",,FMN,M,EMS-Tac
+483.293750,486.29375,WQFH239,EMS,"Brooklyn South Dispatch","EMS BK S Disp","192.8 PL",,FMN,RM,"EMS Dispatch"
+483.293750,0.00000,WQFH239,EMS,"Manhattan South Tactical","EMS MN S Tac ","167.9 PL",,FMN,M,EMS-Tac
+483.312500,486.31250,WIM662,Manhattan,"Patrol Borough Manhattan South 2","NYPD PB MN S 2","DA5 NAC",,P25E,RM,"Law Dispatch"
+483.356250,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 030 UHF Simulcast (30)",,,,"Project 25",,TRS
+483.368750,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 030 UHF Simulcast (30)",,,,"Project 25",,TRS
+483.381250,0.00000,WQFH238,Dispatch,"Citywide 2 Dispatch","FDNY CW2 Disptch","167.9 PL",,FMN,B,"Fire Dispatch"
+483.393750,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 031 UHF Simulcast (31)",,,,"Project 25",,TRS
+483.412500,486.41250,WIM642,Queens,"Patrol Borough Queens South 3","NYPD PB QN S 3",,,P25E,RM,"Law Dispatch"
+483.437500,486.43750,WIM630,Manhattan,"Patrol Borough Manhattan North 6","NYPD PB MN N 6",,,P25E,RM,"Law Dispatch"
+483.481250,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 031 UHF Simulcast (31)",,,,"Project 25",,TRS
+483.493750,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 030 UHF Simulcast (30)",,,,"Project 25",,TRS
+483.506250,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 031 UHF Simulcast (31)",,,,"Project 25",,TRS
+483.518750,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 031 UHF Simulcast (31)",,,,"Project 25",,TRS
+483.562500,486.56250,WIM663,Brooklyn,"Patrol Borough Brooklyn North 4","NYPD PB BK N 4","A4E NAC",,P25E,RM,"Law Dispatch"
+483.587500,486.58750,WIM499,Brooklyn,"Patrol Borough Brooklyn South 2","NYPD PB BK S 2","238 NAC",,P25E,RM,"Law Dispatch"
+483.662500,486.66250,WIM650,Queens,"Patrol Borough Queens South 1","NYPD PB QN S 1","944 NAC",,P25E,RM,"Law Dispatch"
+483.687500,486.68750,WIM670,Queens,"Patrol Borough Queens North 5","NYPD PB QN N 5",,,P25E,RM,"Law Dispatch"
+483.812500,486.81250,WIM665,Manhattan,"Patrol Borough Manhattan South 3","NYPD PB MN S 3","CC3 NAC",,P25E,RM,"Law Dispatch"
+483.837500,486.83750,WIM503,Brooklyn,"Patrol Borough Brooklyn South 3","NYPD PB BK S 3","29D NAC",,P25E,RM,"Law Dispatch"
+483.937500,486.93750,WIM671,Queens,"Patrol Borough Queens North 6","NYPD PB QN N 6",,,P25E,RM,"Law Dispatch"
+484.062500,487.06250,WIM666,Brooklyn,"Patrol Borough Brooklyn North 5","NYPD PB BK N 5","BCD NAC",,P25E,RM,"Law Dispatch"
+484.087500,487.08750,WIM634,"Staten Island","Patrol Borough Staten Island 1","NYPD PB SI 1","7A8 NAC",,P25E,RM,"Law Dispatch"
+484.162500,487.16250,WIM672,Bronx,"Patrol Borough Bronx 2","NYPD PB BX 2","AB8 NAC",,P25E,RM,"Law Dispatch"
+484.187500,487.18750,WIM673,Manhattan,"Patrol Borough Manhattan South 1","NYPD PB MN S 1","B5B NAC",,P25E,RM,"Law Dispatch"
+484.312500,487.31250,WIM667,Brooklyn,"Patrol Borough Brooklyn North 6","NYPD PB BK N 6","8B8 NAC",,P25E,RM,"Law Dispatch"
+484.337500,487.33750,WIM564,"Staten Island","Patrol Borough Staten Island 2","NYPD PB SI 2","59D NAC",,P25E,RM,"Law Dispatch"
+484.412500,487.41250,WIM674,Manhattan,"Patrol Borough Manhattan North 5","NYPD PB MN N 5","749 NAC",,P25E,RM,"Law Dispatch"
+484.662500,487.66250,WIM675,Bronx,"Patrol Borough Bronx 3","NYPD PB BX 3","C1B NAC",,P25E,RM,"Law Dispatch"
+484.762500,487.76250,WQHX483,Fireground,"Battalion Chief Vehicle Repeater","FDNY BattChf Rpt","173.8 PL",,FMN,RM,Fire-Tac
+484.812500,0.00000," ","New York City Police Department (NYPD)","Site 001 NYC",,,,"Project 25",,TRS
+484.906250,487.90625,WQOJ552,"Dept of Correction","Rikers Facilities - George R Vierno Center","DOC Rikers","331 DPL",,FM,RM,Corrections
+485.006250,0.00000,WQFH239,Dispatch,"Bronx Mobiles","FDNY BX Mobiles",,,FMN,M,"Fire Dispatch"
+485.018750,0.00000,WQFH239,Dispatch,"Brooklyn Mobiles","FDNY BK Mobiles",,,FMN,M,"Fire Dispatch"
+485.031250,0.00000,WQFH239,Dispatch,"Queens Mobiles","FDNY QN Mobiles",,,FMN,M,"Fire Dispatch"
+485.043750,0.00000,WQFH239,Dispatch,"Staten Island Mobiles","FDNY SI Mobiles",,,FMN,M,"Fire Dispatch"
+485.062500,0.00000,WQHX483,Fireground,"HT8 - Fireground","FDNY FG HT 8",CSQ,,FMN,M,Fire-Tac
+485.106250,0.00000,WQFH239,Dispatch,"Manhattan Mobiles","FDNY MN Mobiles",,,FMN,M,"Fire Dispatch"
+485.187500,0.00000,WQHX483,Fireground,"CMD 1 - Command 1","FDNY FG Cmd 1",CSQ,,FMN,M,Fire-Tac
+485.231250,0.00000,WQFH239,Dispatch,"Citywide 1 Mobiles","FDNY CW1 Mobiles",,,FMN,M,"Fire Dispatch"
+485.262500,0.00000,WQHX483,Fireground,"HT6 - Fireground","FDNY FG HT 6",CSQ,,FMN,M,Fire-Tac
+485.437500,0.00000,WIM515,Tactical,"Tac F - Housing/Yankee Stadium/SRG","NYPD Tac F","203.5 PL",,FM,M,"Law Tac"
+485.462500,0.00000,WIM527,Tactical,"Tac E - Patrol","NYPD Tac E","233.6 PL",,FM,M,"Law Tac"
+485.487500,0.00000,WIM511,Tactical,"Tac D - Patrol","NYPD Tac D","225.7 PL",,FM,M,"Law Tac"
+485.537500,0.00000,WIM507,Tactical,"Tac V - Communications/Fleet Services","NYPD Tac V","233.6 PL",,FM,M,"Law Tac"
+485.612500,0.00000,WIM658,Tactical,"Tac A - Patrol","NYPD Tac A","203.5 PL",,FM,M,"Law Tac"
+486.018750,0.00000,WPPU560,Fireground,"HT9 - Fireground","FDNY FG HT 9 ",,,P25,M,Fire-Tac
+486.112500,0.00000,WQHX483,Fireground,"TAC 1","FDNY FG Tac 1",CSQ,,FMN,M,Fire-Tac
+486.137500,0.00000,WQHX483,Fireground,"HT7 - Fireground","FDNY FG HT 7",CSQ,,FMN,M,Fire-Tac
+486.262500,0.00000,WQHX483,Fireground,"TAC 2","FDNY FG Tac 2",CSQ,,FMN,M,Fire-Tac
+486.381250,0.00000,WQFH239,Dispatch,"Citywide 2 Mobiles","FDNY CW2 Mobiles",,,FMN,M,"Fire Dispatch"
+486.737500,0.00000,WQHX483,Fireground,Emergency,"FDNY Emergency",CSQ,,FMN,M,Fire-Tac
+487.137500,0.00000,WQHX483,Fireground,"HT5 - Fireground","FDNY FG HT 5",CSQ,,FMN,M,Fire-Tac
+487.262500,0.00000,WQHX483,Fireground,"HT4 - Fireground","FDNY FG HT 4 ",CSQ,,FMN,M,Fire-Tac
+487.487500,0.00000,WQHX483,EMS,"EMS CFR Tactical","EMS CFR Tac","85.4 PL",,FMN,M,EMS-Tac
+769.112500,0.00000," ","New York City Transit Authority (TETRA)","Site 010 Flatbush Depot (BK)",,,,TETRA,,TRS
+769.112500,0.00000," ","New York City Transit Authority (TETRA)","Site 027 West Farm Square Bus Depot (BX)",,,,TETRA,,TRS
+769.312500,0.00000," ","New York City Transit Authority (TETRA)","Site 005 38th Street Yard (BK)",,,,TETRA,,TRS
+769.312500,0.00000," ","New York City Transit Authority (TETRA)","Site 028 Zarega Bus Depot (BX)",,,,TETRA,,TRS
+769.362500,0.00000," ","New York City Transit Authority (TETRA)","Site 007 Mother Clara Hale Depot (MN)",,,,TETRA,,TRS
+769.406250,0.00000," ","Metro-25/MTA MRRS","Site 046 Grand Central Terminal",,,,"Project 25",,TRS
+769.406250,0.00000," ","Metro-25/MTA MRRS","Site 047 Moynihan Train Hall",,,,"Project 25",,TRS
+769.512500,0.00000," ","New York City Transit Authority (TETRA)","Site 014 Grand Avenue Bus Depot (QN)",,,,TETRA,,TRS
+769.562500,0.00000," ","New York City Transit Authority (TETRA)","Site 006 Coney Island (BK)",,,,TETRA,,TRS
+769.562500,0.00000," ","New York City Transit Authority (TETRA)","Site 020 Corona Train Yard (QN)",,,,TETRA,,TRS
+769.612500,0.00000," ","New York City Transit Authority (TETRA)","Site 008 Canarsie Yard (BK)",,,,TETRA,,TRS
+769.612500,0.00000," ","New York City Transit Authority (TETRA)","Site 024 LIRR Bayside Yard (QN)",,,,TETRA,,TRS
+769.718750,0.00000," ","Metro-25/MTA MRRS","Site 046 Grand Central Terminal",,,,"Project 25",,TRS
+769.718750,0.00000," ","Metro-25/MTA MRRS","Site 047 Moynihan Train Hall",,,,"Project 25",,TRS
+769.812500,0.00000," ","New York City Transit Authority (TETRA)","Site 023 LaGuardia Bus Depot (QN)",,,,TETRA,,TRS
+769.862500,0.00000," ","New York City Transit Authority (TETRA)","Site 012 Long Island City (QN)",,,,TETRA,,TRS
+769.862500,0.00000," ","New York City Transit Authority (TETRA)","Site 016 JFK Depot (QN)",,,,TETRA,,TRS
+770.012500,0.00000," ","New York City Transit Authority (TETRA)","Site 007 Mother Clara Hale Depot (MN)",,,,TETRA,,TRS
+770.062500,0.00000," ","New York City Transit Authority (TETRA)","Site 017 Jamaica Bus Depot (QN)",,,,TETRA,,TRS
+770.062500,0.00000," ","New York City Transit Authority (TETRA)","Site 013 Grand Ave Central Maintenance Facility (QN)",,,,TETRA,,TRS
+770.112500,0.00000," ","New York City Transit Authority (TETRA)","Site 006 Coney Island (BK)",,,,TETRA,,TRS
+770.112500,0.00000," ","New York City Transit Authority (TETRA)","Site 020 Corona Train Yard (QN)",,,,TETRA,,TRS
+770.193750,0.00000," ","Metro-25/MTA MRRS","Site 046 Grand Central Terminal",,,,"Project 25",,TRS
+770.193750,0.00000," ","Metro-25/MTA MRRS","Site 047 Moynihan Train Hall",,,,"Project 25",,TRS
+770.287500,0.00000," ","New York City Transit Authority (TETRA)","Site 012 Long Island City (QN)",,,,TETRA,,TRS
+770.337500,0.00000," ","New York City Transit Authority (TETRA)","Site 004 Castleton Depot (SI)",,,,TETRA,,TRS
+770.337500,0.00000," ","New York City Transit Authority (TETRA)","Site 021 Corona Train Yard (QN)",,,,TETRA,,TRS
+770.456250,0.00000," ","Metro-25/MTA MRRS","Site 046 Grand Central Terminal",,,,"Project 25",,TRS
+770.456250,0.00000," ","Metro-25/MTA MRRS","Site 047 Moynihan Train Hall",,,,"Project 25",,TRS
+770.562500,0.00000," ","New York City Transit Authority (TETRA)","Site 031 Concourse Yard (BX)",,,,TETRA,,TRS
+770.812500,0.00000," ","New York City Transit Authority (TETRA)","Site 029 Gun Hill Depot (BX)",,,,TETRA,,TRS
+770.812500,0.00000," ","New York City Transit Authority (TETRA)","Site 011 East New York Rail Yard (BK)",,,,TETRA,,TRS
+770.862500,0.00000," ","New York City Transit Authority (TETRA)","Site 017 Jamaica Bus Depot (QN)",,,,TETRA,,TRS
+770.862500,0.00000," ","New York City Transit Authority (TETRA)","Site 013 Grand Ave Central Maintenance Facility (QN)",,,,TETRA,,TRS
+771.037500,0.00000," ","New York City Transit Authority (TETRA)","Site 031 Concourse Yard (BX)",,,,TETRA,,TRS
+771.062500,0.00000," ","New York City Transit Authority (TETRA)","Site 003 Todd Hill (SI)",,,,TETRA,,TRS
+771.187500,0.00000," ","New York City Transit Authority (TETRA)","Site 011 East New York Rail Yard (BK)",,,,TETRA,,TRS
+771.312500,0.00000," ","New York City Transit Authority (TETRA)","Site 015 Liberty Ave Substation (QN)",,,,TETRA,,TRS
+771.312500,0.00000," ","New York City Transit Authority (TETRA)","Site 037 AT&T Building (MN)",,,,TETRA,,TRS
+771.362500,0.00000," ","New York City Transit Authority (TETRA)","Site 019 Jamaica Train Yard (QN)",,,,TETRA,,TRS
+771.362500,0.00000," ","New York City Transit Authority (TETRA)","Site 040 Greenwich Substation (MN)",,,,TETRA,,TRS
+771.437500,0.00000," ","New York City Transit Authority (TETRA)","Site 026 Hammels Wye (QN)",,,,TETRA,,TRS
+771.437500,0.00000," ","New York City Transit Authority (TETRA)","Site 039 Graybar Building (MN)",,,,TETRA,,TRS
+771.612500,0.00000," ","New York City Transit Authority (TETRA)","Site 025 Far Rockaway Depot (QN)",,,,TETRA,,TRS
+771.612500,0.00000," ","New York City Transit Authority (TETRA)","Site 038 AT&T Building (MN)",,,,TETRA,,TRS
+771.687500,0.00000," ","New York City Transit Authority (TETRA)","Site 018 Jamaica Bus Depot (QN)",,,,TETRA,,TRS
+771.687500,0.00000," ","New York City Transit Authority (TETRA)","Site 036 Tuskegee Airmen Bus Depot (MN)",,,,TETRA,,TRS
+771.837500,0.00000," ","New York City Transit Authority (TETRA)","Site 042 2 Broadway HQ (MN)",,,,TETRA,,TRS
+771.837500,0.00000," ","New York City Transit Authority (TETRA)","Site 034 207th Street Yard (MN)",,,,TETRA,,TRS
+771.837500,0.00000," ","New York City Transit Authority (TETRA)","Site 022 Queens Village Bus Depot (QN)",,,,TETRA,,TRS
+771.987500,0.00000," ","New York City Transit Authority (TETRA)","Site 038 AT&T Building (MN)",,,,TETRA,,TRS
+772.512500,0.00000," ","New York City Transit Authority (TETRA)","Site 001 Charleston Depot (SI)",,,,TETRA,,TRS
+772.512500,0.00000," ","New York City Transit Authority (TETRA)","Site 032 Jerome Yard (BX)",,,,TETRA,,TRS
+772.512500,0.00000," ","New York City Transit Authority (TETRA)","Site 041 2 Broadway HQ (MN)",,,,TETRA,,TRS
+772.937500,0.00000," ","New York City Transit Authority (TETRA)","Site 002 Eltingville Station (SI)",,,,TETRA,,TRS
+772.937500,0.00000," ","New York City Transit Authority (TETRA)","Site 009 East New York Rail Yard (BK)",,,,TETRA,,TRS
+773.093750,0.00000," ","Metro-25/MTA MRRS","Site 046 Grand Central Terminal",,,,"Project 25",,TRS
+773.093750,0.00000," ","Metro-25/MTA MRRS","Site 047 Moynihan Train Hall",,,,"Project 25",,TRS
+774.137500,0.00000," ","New York City Transit Authority (TETRA)","Site 030 240th Street Yard (BX)",,,,TETRA,,TRS
+851.037500,0.00000," ","Metro-25/MTA MRRS","Site 001 Metro-25 Simulcast",,,,"Project 25",,TRS
+851.037500,0.00000," ","Metro-25/MTA MRRS","Site 048 Grand Central Madison",,,,"Project 25",,TRS
+851.212500,0.00000," ","Port Authority of New York and New Jersey","Site 010 Simulcast",,,,"Project 25",,TRS
+851.537500,0.00000," ","Metro-25/MTA MRRS","Site 001 Metro-25 Simulcast",,,,"Project 25",,TRS
+851.537500,0.00000," ","Metro-25/MTA MRRS","Site 048 Grand Central Madison",,,,"Project 25",,TRS
+851.812500,0.00000," ","Port Authority of New York and New Jersey","Site 010 Simulcast",,,,"Project 25",,TRS
+852.037500,0.00000," ","Metro-25/MTA MRRS","Site 001 Metro-25 Simulcast",,,,"Project 25",,TRS
+852.037500,0.00000," ","Metro-25/MTA MRRS","Site 048 Grand Central Madison",,,,"Project 25",,TRS
+852.375000,0.00000," ","Port Authority of New York and New Jersey","Site 010 Simulcast",,,,"Project 25",,TRS
+852.537500,0.00000," ","Metro-25/MTA MRRS","Site 001 Metro-25 Simulcast",,,,"Project 25",,TRS
+852.537500,0.00000," ","Metro-25/MTA MRRS","Site 048 Grand Central Madison",,,,"Project 25",,TRS
+852.875000,0.00000," ","Port Authority of New York and New Jersey","Site 010 Simulcast",,,,"Project 25",,TRS
+853.037500,0.00000," ","Metro-25/MTA MRRS","Site 001 Metro-25 Simulcast",,,,"Project 25",,TRS
+853.037500,0.00000," ","Metro-25/MTA MRRS","Site 048 Grand Central Madison",,,,"Project 25",,TRS
+853.550000,0.00000," ","Port Authority of New York and New Jersey","Site 010 Simulcast",,,,"Project 25",,TRS
+853.600000,0.00000," ","Port Authority of New York and New Jersey","Site 010 Simulcast",,,,"Project 25",,TRS
+853.912500,0.00000," ","Port Authority of New York and New Jersey","Site 010 Simulcast",,,,"Project 25",,TRS
+854.012500,0.00000," ","New Jersey Transit","Site 061 Port Authority Bus Terminal",,,,TETRA,,TRS
+854.262500,0.00000," ","New York City Transit Authority (TETRA)","Site 018 Jamaica Bus Depot (QN)",,,,TETRA,,TRS
+854.262500,0.00000," ","New York City Transit Authority (TETRA)","Site 036 Tuskegee Airmen Bus Depot (MN)",,,,TETRA,,TRS
+854.312500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+854.412500,0.00000," ","ARINC (JFK)","Site 032 JFK West",,,,TETRA,,TRS
+854.437500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+854.462500,0.00000," ","New York City Transit Authority (TETRA)","Site 014 Grand Avenue Bus Depot (QN)",,,,TETRA,,TRS
+854.662500,0.00000," ","New Jersey Transit","Site 040 Manhattan 1",,,,TETRA,,TRS
+854.912500,0.00000," ","New York City Transit Authority (TETRA)","Site 027 West Farm Square Bus Depot (BX)",,,,TETRA,,TRS
+854.912500,0.00000," ","New York City Transit Authority (TETRA)","Site 039 Graybar Building (MN)",,,,TETRA,,TRS
+855.162500,0.00000," ","New York City Transit Authority (TETRA)","Site 003 Todd Hill (SI)",,,,TETRA,,TRS
+855.362500,0.00000," ","New York City Transit Authority (TETRA)","Site 031 Concourse Yard (BX)",,,,TETRA,,TRS
+855.412500,0.00000," ","New York City Transit Authority (TETRA)","Site 002 Eltingville Station (SI)",,,,TETRA,,TRS
+855.412500,0.00000," ","New York City Transit Authority (TETRA)","Site 009 East New York Rail Yard (BK)",,,,TETRA,,TRS
+855.612500,0.00000," ","New York City Transit Authority (TETRA)","Site 015 Liberty Ave Substation (QN)",,,,TETRA,,TRS
+855.612500,0.00000," ","New York City Transit Authority (TETRA)","Site 037 AT&T Building (MN)",,,,TETRA,,TRS
+855.662500,0.00000," ","New York City Transit Authority (TETRA)","Site 005 38th Street Yard (BK)",,,,TETRA,,TRS
+855.662500,0.00000," ","New York City Transit Authority (TETRA)","Site 028 Zarega Bus Depot (BX)",,,,TETRA,,TRS
+855.862500,0.00000," ","New York City Transit Authority (TETRA)","Site 004 Castleton Depot (SI)",,,,TETRA,,TRS
+855.862500,0.00000," ","New York City Transit Authority (TETRA)","Site 021 Corona Train Yard (QN)",,,,TETRA,,TRS
+855.912500,0.00000," ","New York City Transit Authority (TETRA)","Site 029 Gun Hill Depot (BX)",,,,TETRA,,TRS
+855.912500,0.00000," ","New York City Transit Authority (TETRA)","Site 011 East New York Rail Yard (BK)",,,,TETRA,,TRS
+856.087500,0.00000," ","New Jersey Transit","Site 063 Penn Station NY 2",,,,TETRA,,TRS
+856.312500,0.00000," ","Consolidated Edison (Manhattan/Queens)","Site 001 Primary",,,,iDEN,,TRS
+856.362500,0.00000," ","Consolidated Edison (Manhattan/Queens)","Site 001 Primary",,,,iDEN,,TRS
+856.387500,0.00000," ","New York City Transit Authority","Site 001 Primary",,,,Motorola,,TRS
+856.412500,0.00000," ","New York City Transit Authority (TETRA)","Site 007 Mother Clara Hale Depot (MN)",,,,TETRA,,TRS
+856.437500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+856.712500,0.00000," ","New Jersey Interoperability Communications System (NJICS)","Site 029 Penn Station",,,,"Project 25",,TRS
+856.887500,0.00000," ","ARINC (JFK)","Site 031 JFK Terminal 4",,,,TETRA,,TRS
+856.937500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+856.987500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+857.037500,0.00000," ","New Jersey Transit","Site 061 Port Authority Bus Terminal",,,,TETRA,,TRS
+857.312500,0.00000," ","Consolidated Edison (Manhattan/Queens)","Site 001 Primary",,,,iDEN,,TRS
+857.362500,0.00000," ","Consolidated Edison (Manhattan/Queens)","Site 001 Primary",,,,iDEN,,TRS
+857.412500,0.00000," ","New York City Transit Authority (TETRA)","Site 003 Todd Hill (SI)",,,,TETRA,,TRS
+857.412500,0.00000," ","New York City Transit Authority (TETRA)","Site 030 240th Street Yard (BX)",,,,TETRA,,TRS
+857.437500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+857.487500,0.00000," ","New Jersey Transit","Site 066 1515 Broadway",,,,TETRA,,TRS
+857.687500,0.00000," ","New Jersey Transit","Site 061 Port Authority Bus Terminal",,,,TETRA,,TRS
+857.887500,0.00000," ","New Jersey Transit","Site 061 Port Authority Bus Terminal",,,,TETRA,,TRS
+857.887500,0.00000," ","ARINC (JFK)","Site 032 JFK West",,,,TETRA,,TRS
+857.937500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+857.987500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+858.362500,0.00000," ","Consolidated Edison (Manhattan/Queens)","Site 001 Primary",,,,iDEN,,TRS
+858.412500,0.00000," ","New York City Transit Authority (TETRA)","Site 006 Coney Island (BK)",,,,TETRA,,TRS
+858.412500,0.00000," ","New York City Transit Authority (TETRA)","Site 020 Corona Train Yard (QN)",,,,TETRA,,TRS
+858.437500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+858.712500,0.00000," ","New Jersey Transit","Site 059 Penn Station NY 1",,,,TETRA,,TRS
+858.887500,0.00000," ","ARINC (JFK)","Site 031 JFK Terminal 4",,,,TETRA,,TRS
+858.937500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+858.987500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+859.012500,0.00000," ","New Jersey Transit","Site 066 1515 Broadway",,,,TETRA,,TRS
+859.337500,0.00000," ","Consolidated Edison (Manhattan/Queens)","Site 001 Primary",,,,iDEN,,TRS
+859.387500,0.00000," ","New York City Transit Authority (TETRA)","Site 039 Graybar Building (MN)",,,,TETRA,,TRS
+859.412500,0.00000," ","New York City Transit Authority","Site 001 Primary",,,,Motorola,,TRS
+859.437500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+859.712500,0.00000," ","New Jersey Interoperability Communications System (NJICS)","Site 029 Penn Station",,,,"Project 25",,TRS
+859.887500,0.00000," ","ARINC (JFK)","Site 032 JFK West",,,,TETRA,,TRS
+859.937500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+859.987500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+860.337500,0.00000," ","Consolidated Edison (Manhattan/Queens)","Site 001 Primary",,,,iDEN,,TRS
+860.362500,0.00000," ","Consolidated Edison (Manhattan/Queens)","Site 001 Primary",,,,iDEN,,TRS
+860.437500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+860.737500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+860.887500,0.00000," ","ARINC (JFK)","Site 031 JFK Terminal 4",,,,TETRA,,TRS
+860.937500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+860.987500,0.00000," ","NYC Interoperable Communications Network (NYCICN)","Site 060 800 Simulcast",,,,"Project 25",,TRS
+927.700000,902.70000,KC2GOW,"33cm Ham","KC2GOW Staten Island (Linked to 6m and 1.25cm)","KC2GOW SI",,"100.0 PL",FMN,RM,Ham
+935.450000,0.00000," ","MTA Regional Bus","Site 001 Simulcast",,,,Motorola,,TRS
+935.462500,0.00000," ","MTA Regional Bus","Site 001 Simulcast",,,,Motorola,,TRS
+935.487500,0.00000," ","MTA Regional Bus","Site 001 Simulcast",,,,Motorola,,TRS
+935.912500,0.00000," ","Clarendon Holding","Site 001 Main",,,,DMR,,TRS
+935.950000,0.00000," ","Clarendon Holding","Site 001 Main",,,,DMR,,TRS
+936.000000,0.00000," ","National Grid","Site 001 Site-1",,,,Motorola,,TRS
+936.450000,0.00000," ","MTA Regional Bus","Site 001 Simulcast",,,,Motorola,,TRS
+936.487500,0.00000," ","MTA Regional Bus","Site 001 Simulcast",,,,Motorola,,TRS
+936.700000,0.00000," ","MTA Regional Bus","Site 001 Simulcast",,,,Motorola,,TRS
+936.900000,0.00000," ","National Grid","Site 001 Site-1",,,,Motorola,,TRS
+937.175000,0.00000," ","National Grid","Site 001 Site-1",,,,Motorola,,TRS
+938.000000,0.00000," ","MTA Regional Bus","Site 001 Simulcast",,,,Motorola,,TRS
+938.175000,0.00000," ","National Grid","Site 001 Site-1",,,,Motorola,,TRS
+938.225000,0.00000," ","MTA Regional Bus","Site 001 Simulcast",,,,Motorola,,TRS
+939.187500,0.00000," ","MTA Regional Bus","Site 001 Simulcast",,,,Motorola,,TRS
+939.925000,0.00000," ","National Grid","Site 001 Site-1",,,,Motorola,,TRS
